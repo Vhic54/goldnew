@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // Fetch menu data from JSON file
 async function loadMenuData() {
     try {
-        const response = await fetch('menu1.json');
+        const response = await fetch('menu.json');
         if (!response.ok) throw new Error('Failed to load menu');
         menuData = await response.json();
         currency = menuData.currency || '₦';
