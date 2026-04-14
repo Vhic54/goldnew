@@ -1,4 +1,5 @@
-  "restaurant": "",
+{
+	"restaurant": "",
   "currency": "₦",
   "menus": [
     {
@@ -255,3 +256,4 @@
       ]
     }
   ]
+}
