@@ -1,4 +1,3 @@
-let menuData = {
   "restaurant": "",
   "currency": "₦",
   "menus": [
@@ -256,4 +255,3 @@ let menuData = {
       ]
     }
   ]
-};
