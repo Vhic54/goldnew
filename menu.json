@@ -117,8 +117,8 @@
       "description": "Sweet endings and fresh selections",
       "subMenus": [
         {
-          "id": "desserts",
-          "name": "Desserts",
+          "id": "Deserts",
+          "name": "Deserts",
           "items": [
             {"name": "Chocolate Lava Cake", "price": 5500, "description": "Warm cake with vanilla ice cream"},
             {"name": "Fruit Salad with Ice Cream", "price": 5000, "description": "Mixed fruits with vanilla scoop"},
