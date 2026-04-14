@@ -106,7 +106,7 @@
           ]
         },
 			{
-          "id": "Plain Meal",
+          "id": "Protein",
           "name": "Protein",
           "items": [
             {"name": "Full English Breakfast", "price": 7500, "description": "Eggs, bacon, sausage, beans, toast, and grilled tomato"},
