@@ -706,11 +706,11 @@
               "price": 20000,
               "description": "Sparkling wine"
             },
-            {
+            /*{
               "name": "FOUR COUSINS SPARKLING RED",
               "price": 20000,
               "description": "South African sparkling red wine"
-            }
+            }*/
           ]
         }, 
         {
