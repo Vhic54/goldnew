@@ -1,30 +1,11 @@
-// Restaurant Menu App with Bootstrap 5
-let menuData = null;
 let currentMenu = null;
 let currentSubMenu = null;
-let currency = '₦';
+let currency = menuData.currency || '₦';
 
 // Initialize when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-    loadMenuData();
+    renderMainMenus();
 });
-
-// Fetch menu data from JSON file
-async function loadMenuData() {
-    try {
-        const response = await fetch('menu.json');
-        if (!response.ok) throw new Error('Failed to load menu');
-        menuData = await response.json();
-        currency = menuData.currency || '₦';
-        renderMainMenus();
-    } catch (error) {
-        document.getElementById('app').innerHTML = `
-            <div class="alert alert-danger text-center" role="alert">
-                <i class="bi bi-exclamation-triangle"></i> Error loading menu: ${error.message}
-            </div>
-        `;
-    }
-}
 
 // Format price with Naira
 function formatPrice(price) {
@@ -34,14 +15,7 @@ function formatPrice(price) {
 // Render main menu list (Home view)
 function renderMainMenus() {
     const app = document.getElementById('app');
-    const icons = {
-        'breakfast': 'bi-sunrise',
-        'shakes-smoothies': 'bi-cup-straw',
-        'lunch-dinner': 'bi-utensils',
-        'wines': 'bi-cup-straw',
-        'spirits': 'bi-droplet',
-        'desserts-fruit': 'bi-apple'
-    };
+    
     
     app.innerHTML = `
         <div class="fade-in">
@@ -51,7 +25,7 @@ function renderMainMenus() {
                     <div class="col-md-6 col-lg-4">
                         <div class="menu-card" onclick="showSubMenus('${menu.id}')">
                             <div class="card-body">
-                                <i class="bi ${icons[menu.id] || 'bi-circle'} menu-icon"></i>
+								
                                 <h4 class="card-title display-font">${menu.name}</h4>
                                 <p class="card-text text-muted">${menu.description}</p>
                                 <span class="badge bg-light text-dark">${menu.subMenus.length} categories</span>
@@ -153,5 +127,3 @@ function showItems(subMenuId) {
         </div>
     `;
 }
-
-
