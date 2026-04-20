@@ -27,7 +27,7 @@
               "description": "Creamy custard with milk and sugar"
             },
             {
-              "name": "BOILED POTATOES/YAM/PLANTAIN WITH TWO EGGS",
+              "name": "BOILED POTATOS/YAM/PLANTAIN WITH TWO EGGS",
               "price": 5000,
               "description": "Boiled tubers served with two eggs"
             },
@@ -267,7 +267,7 @@
             {
               "name": "OGBONO SOUP",
               "price": 2500,
-              "description": ""
+              "description": "Wild mango seed soup"
             },
             {
               "name": "OKRO SOUP",
@@ -277,12 +277,12 @@
             {
               "name": "AFANG SOUP",
               "price": 3000,
-              "description": ""
+              "description": "Wild spinach and waterleaf soup"
             },
             {
               "name": "VEGETABLE SOUP",
               "price": 3000,
-              "description": ""
+              "description": "Mixed green vegetable soup"
             },
             {
               "name": "OFE-OWERRI SOUP",
@@ -303,22 +303,22 @@
             {
               "name": "ISI EWU WITH UGBA",
               "price": 12000,
-              "description": ""
+              "description": "Spicy goat head with palm oil and utazi leaves"
             },
             {
-              "name": "Nkwuobi with Ugba",
+              "name": "NKWUOBI WITH UGBA",
               "price": 10000,
-              "description": ""
+              "description": "Palm oil bean mash with fermented oil bean seeds"
             },
             {
-              "name": "Asun with Plantain",
+              "name": "ASUN WITH PLANTAIN",
               "price": 6000,
-              "description": ""
+              "description": "Spicy grilled goat meat with fried plantain"
             },
             {
-              "name": "Gizzy Dodo",
+              "name": "GIZZY DODO",
               "price": 5500,
-              "description": ""
+              "description": "Gizzard and fried plantain in spicy sauce"
             }
           ]
         },
@@ -416,52 +416,52 @@
             {
               "name": "CHICKEN CORN SOUP",
               "price": 7000,
-              "description": ""
+              "description": "Creamy corn soup with chicken"
             },
             {
               "name": "CHICKEN PEPPER SOUP",
               "price": 6000,
-              "description": ""
+              "description": "Spicy pepper soup with chicken"
             },
             {
               "name": "BEEF PEPPER SOUP",
               "price": 5000,
-              "description": ""
+              "description": "Spicy pepper soup with beef"
             },
             {
               "name": "GOAT MEAT PEPPER SOUP",
               "price": 6000,
-              "description": ""
+              "description": "Spicy pepper soup with goat meat"
             },
             {
               "name": "GIZZARD PEPPER SOUP",
               "price": 5000,
-              "description": ""
+              "description": "Spicy pepper soup with chicken gizzard"
             },
             {
               "name": "COWLEG PEPPER SOUP",
               "price": 6000,
-              "description": ""
+              "description": "Spicy pepper soup with cow leg"
             },
             {
               "name": "FRESH FISH PEPPER SOUP",
               "price": 6000,
-              "description": ""
+              "description": "Spicy pepper soup with fresh fish"
             },
             {
               "name": "ASSORTED PEPPER SOUP",
               "price": 5000,
-              "description": ""
+              "description": "Spicy pepper soup with mixed meats"
             },
             {
               "name": "SNAIL PEPPER SOUP",
               "price": 6000,
-              "description": ""
+              "description": "Spicy pepper soup with snails"
             },
             {
               "name": "TURKEY PEPPER SOUP",
               "price": 7000,
-              "description": ""
+              "description": "Spicy pepper soup with turkey"
             }
           ]
         },
@@ -472,32 +472,32 @@
             {
               "name": "VEGETABLE SALAD",
               "price": 2000,
-              "description": ""
+              "description": "Fresh mixed vegetable salad"
             },
             {
               "name": "RUSSIAN SALAD SERVER COLD",
               "price": 3500,
-              "description": ""
+              "description": "Cold Russian-style potato and vegetable salad"
             },
             {
               "name": "CHICKEN SALAD",
               "price": 5000,
-              "description": ""
+              "description": "Grilled chicken with mixed greens"
             },
             {
               "name": "PASTA SALAD",
               "price": 2500,
-              "description": ""
+              "description": "Cold pasta with vegetables and dressing"
             },
             {
-              "name": "POTATOE SALAD",
+              "name": "POTATO SALAD",
               "price": 2500,
-              "description": ""
+              "description": "Creamy potato salad"
             },
             {
               "name": "TUNA SALAD",
               "price": 5000,
-              "description": ""
+              "description": "Tuna salad with vegetables"
             }
           ]
         },
@@ -508,32 +508,32 @@
             {
               "name": "SPAGHETTI VEGETARIAN",
               "price": 3500,
-              "description": ""
+              "description": "Spaghetti with mixed vegetables"
             },
             {
               "name": "SPAGHETTI BOLOGNAISE",
               "price": 10000,
-              "description": ""
+              "description": "Spaghetti with meat sauce"
             },
             {
-              "name": "SPAGHETTI CARBORA",
+              "name": "SPAGHETTI CARBONARA",
               "price": 10000,
-              "description": ""
+              "description": "Spaghetti with creamy egg and bacon sauce"
             },
             {
               "name": "CHICKEN FRIED NOODLES",
               "price": 7000,
-              "description": ""
+              "description": "Stir-fried noodles with chicken"
             },
             {
               "name": "BEEF FRIED NOODLES",
               "price": 7000,
-              "description": ""
+              "description": "Stir-fried noodles with beef"
             },
             {
-              "name": "SRIMP FRIED NOODLES",
+              "name": "SHRIMP FRIED NOODLES",
               "price": 7000,
-              "description": ""
+              "description": "Stir-fried noodles with shrimp"
             }
           ]
         },
@@ -578,39 +578,39 @@
           "name": "Protein",
           "items": [
             {
-              "name": " PEPPERED CHICKEN (",
+              "name": "PEPPERED CHICKEN",
               "price": 6000,
-              "description": ""
+              "description": "Spicy peppered chicken"
             },
             {
               "name": "PEPPERED GOAT MEAT",
               "price": 6000,
-              "description": ""
+              "description": "Spicy peppered goat meat"
             },
             {
-              "name": "PEPPERED BEEF ",
+              "name": "PEPPERED BEEF",
               "price": 5500,
-              "description": ""
+              "description": "Spicy peppered beef"
             },
             {
               "name": "PEPPERED SNAIL",
               "price": 7000,
-              "description": ""
+              "description": "Spicy peppered snails"
             },
             {
-              "name": "PEPPERED PEPPERED DRY FISH",
+              "name": "PEPPERED DRY FISH",
               "price": 6000,
-              "description": ""
+              "description": "Spicy peppered dry fish"
             },
             {
-              "name": "PEPPERED CATFISH/ CROAKER)",
+              "name": "PEPPERED CATFISH/CROAKER",
               "price": 8000,
-              "description": ""
+              "description": "Spicy peppered catfish or croaker"
             },
             {
               "name": "TURKEY",
               "price": 6000,
-              "description": ""
+              "description": "Roasted or grilled turkey"
             }
           ]
         }
@@ -684,32 +684,32 @@
             {
               "name": "ANDRE BRUT",
               "price": 20000,
-              "description": ""
+              "description": "Sparkling wine"
             },
             {
-              "name": " HENKEL ROSE",
+              "name": "HENKEL ROSE",
               "price": 45000,
-              "description": ""
+              "description": "German sparkling rosé"
             },
             {
-              "name": " HENKEL VARIETY",
+              "name": "HENKEL VARIETY",
               "price": 10000,
-              "description": ""
+              "description": "German sparkling wine selection"
             },
             {
               "name": "PINK LADY PERRY",
               "price": 8000,
-              "description": ""
+              "description": "Sweet pear cider"
             },
             {
-              "name": " CASTLE DEFERO",
+              "name": "CASTLE DEFERO",
               "price": 20000,
-              "description": ""
+              "description": "Sparkling wine"
             },
             {
-              "name": "FOUR COUSINS RED",
+              "name": "FOUR COUSINS SPARKLING RED",
               "price": 20000,
-              "description": ""
+              "description": "South African sparkling red wine"
             }
           ]
         },
@@ -730,32 +730,32 @@
             {
               "name": "ESCUDO ROJO",
               "price": 23000,
-              "description": ""
+              "description": "Chilean red wine"
             },
             {
-              "name": " TOMA TOMA BODEGAS LOZANO",
+              "name": "TOMA TOMA BODEGAS LOZANO",
               "price": 10000,
-              "description": ""
+              "description": "Spanish red wine"
             },
             {
-              "name": " SAN SIMON CASTILO",
+              "name": "SAN SIMON CASTILO",
               "price": 10000,
-              "description": ""
+              "description": "Spanish red wine"
             },
             {
-              "name": " B&G",
+              "name": "B&G",
               "price": 15000,
-              "description": ""
+              "description": "French red wine"
             },
             {
-              "name": " THOMAS BARTON",
+              "name": "THOMAS BARTON",
               "price": 30000,
-              "description": ""
+              "description": "French Bordeaux wine"
             },
             {
               "name": "FOUR COUSINS RED",
               "price": 20000,
-              "description": ""
+              "description": "South African red wine"
             }
           ]
         },
@@ -847,42 +847,42 @@
             {
               "name": "GUINNESS FOREIGN EXTRA STOUT (BIG)",
               "price": 3000,
-              "description": ""
+              "description": "600ml"
             },
             {
               "name": "GUINNESS FOREIGN EXTRA STOUT (MEDIUM)",
               "price": 2000,
-              "description": ""
+              "description": "33cl"
             },
             {
               "name": "GUINNESS FOREIGN EXTRA STOUT (SMALL)",
               "price": 2000,
-              "description": ""
+              "description": "18cl"
             },
             {
               "name": "GUINNESS EXTRA SMOOTH",
               "price": 2000,
-              "description": ""
+              "description": "33cl smooth stout"
             },
             {
               "name": "LEGEND STOUT (BIG)",
               "price": 2500,
-              "description": ""
+              "description": "600ml"
             },
             {
               "name": "LEGEND STOUT (MEDIUM)",
               "price": 2000,
-              "description": ""
+              "description": "33cl"
             },
             {
               "name": "LEGEND STOUT (SMALL)",
               "price": 2000,
-              "description": ""
+              "description": "18cl"
             },
             {
               "name": "TROPHY STOUT",
               "price": 2000,
-              "description": ""
+              "description": "33cl"
             }
           ]
         },
@@ -972,62 +972,62 @@
             {
               "name": "MEAT PIE",
               "price": 1000,
-              "description": ""
+              "description": "Flaky pastry with meat filling"
             },
             {
               "name": "CHICKEN PIE",
               "price": 1500,
-              "description": ""
+              "description": "Flaky pastry with chicken filling"
             },
             {
               "name": "DOUGHNUT",
               "price": 1000,
-              "description": "Italian coffee-flavored dessert"
+              "description": "Sweet fried dough ring"
             },
             {
               "name": "FISH PIE",
               "price": 1000,
-              "description": "Crunchy fried pastry snack"
+              "description": "Flaky pastry with fish filling"
             },
             {
               "name": "SAUSAGE ROLL",
               "price": 1000,
-              "description": "Sweet fried dough balls"
+              "description": "Puff pastry with sausage filling"
             },
             {
               "name": "BREAD ROLL",
               "price": 1000,
-              "description": "Crunchy fried pastry snack"
+              "description": "Soft bread roll"
             },
             {
               "name": "SPRING ROLL",
               "price": 1000,
-              "description": "Sweet fried dough balls"
+              "description": "Crispy vegetable roll"
             },
             {
               "name": "MOI-MOI",
               "price": 2000,
-              "description": "Crunchy fried pastry snack"
+              "description": "Steamed bean pudding"
             },
             {
               "name": "CUP CAKE",
               "price": 1000,
-              "description": "Sweet fried dough balls"
+              "description": "Small sweet cake"
             },
             {
               "name": "CHICKEN WING",
               "price": 3000,
-              "description": "Crunchy fried pastry snack"
+              "description": "Fried or grilled chicken wings"
             },
             {
               "name": "CHICKEN BURGER",
               "price": 3500,
-              "description": "Sweet fried dough balls"
+              "description": "Chicken patty in bun"
             },
             {
               "name": "BEEF BURGER",
               "price": 3500,
-              "description": "Crunchy fried pastry snack"
+              "description": "Beef patty in bun"
             }
           ]
         },
@@ -1038,22 +1038,22 @@
             {
               "name": "BEEF WITH HOT DOG",
               "price": 3000,
-              "description": ""
+              "description": "Beef sharwama with hot dog"
             },
             {
               "name": "CHICKEN WITH HOT DOG",
               "price": 4000,
-              "description": ""
+              "description": "Chicken sharwama with hot dog"
             },
             {
               "name": "MIXED MEAT WITH HOT DOG",
               "price": 4000,
-              "description": ""
+              "description": "Mixed meat sharwama with hot dog"
             },
             {
               "name": "EXTRA HOT DOG",
               "price": 2000,
-              "description": ""
+              "description": "Additional hot dog"
             }
           ]
         },
@@ -1064,17 +1064,17 @@
             {
               "name": "PINEAPPLE JUICE",
               "price": 2500,
-              "description": ""
+              "description": "Fresh pineapple juice"
             },
             {
               "name": "FRUIT SLICES",
               "price": 2500,
-              "description": ""
+              "description": "Assorted fresh fruit slices"
             },
             {
               "name": "FRUIT SMOOTHIE",
               "price": 2500,
-              "description": ""
+              "description": "Blended fresh fruit smoothie"
             }
           ]
         }
