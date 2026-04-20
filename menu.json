@@ -5,7 +5,7 @@
     {
       "id": "Food",
       "name": "Food",
-      "description": "Start your day with us",
+      "description": "Start your day with our food category menu",
       "subMenus": [
         {
           "id": "Breakfast",
@@ -252,12 +252,12 @@
             {
               "name": "EGUSI SOUP",
               "price": 2000,
-              "description": "Melon seed soup with vegetables and protein"
+              "description": "Melon seed soup with vegetables "
             },
             {
               "name": "BITTER-LEAF SOUP",
               "price": 2000,
-              "description": "Traditional soup with bitter leaf and protein"
+              "description": "Traditional soup with bitter leaf"
             },
             {
               "name": "OHA SOUP",
@@ -267,7 +267,7 @@
             {
               "name": "OGBONO SOUP",
               "price": 2500,
-              "description": "Wild mango seed soup"
+              "description": ""
             },
             {
               "name": "OKRO SOUP",
@@ -277,12 +277,12 @@
             {
               "name": "AFANG SOUP",
               "price": 3000,
-              "description": "Wild spinach and waterleaf soup"
+              "description": ""
             },
             {
               "name": "VEGETABLE SOUP",
               "price": 3000,
-              "description": "Mixed green vegetable soup"
+              "description": ""
             },
             {
               "name": "OFE-OWERRI SOUP",
@@ -292,7 +292,7 @@
             {
               "name": "NSALA SOUP",
               "price": 3000,
-              "description": "White soup with spices and protein"
+              "description": "White soup with spices"
             }
           ]
         },
@@ -499,7 +499,44 @@
             {
               "name": "TUNA SALAD",
               "price": 5000,
-              "description": "Chicken in creamy mushroom sauce"
+              "description": ""
+            }
+          ]
+        },
+		
+		{
+			"id": "Pasta",
+          "name": "Pasta",
+          "items": [
+            {
+              "name": "SPAGHETTI VEGETARIAN",
+              "price": 3500,
+              "description": ""
+            },
+            {
+              "name": "SPAGHETTI BOLOGNAISE",
+              "price": 10000,
+              "description": ""
+            },
+            {
+              "name": "SPAGHETTI CARBORA",
+              "price": 10000,
+              "description": ""
+            },
+            {
+              "name": "CHICKEN FRIED NOODLES",
+              "price": 7000,
+              "description": ""
+            },
+            {
+              "name": "BEEF FRIED NOODLES",
+              "price": 7000,
+              "description": ""
+            },
+            {
+              "name": "SRIMP FRIED NOODLES",
+              "price": 7000,
+              "description": ""
             }
           ]
         },
@@ -542,57 +579,42 @@
         },
         {
           "id": "Protein",
-          "name": "Protein Extras",
+          "name": "Protein",
           "items": [
             {
-              "name": "GRILLED CHICKEN (1 PIECE)",
-              "price": 3500,
-              "description": "Single piece of grilled chicken"
+              "name": " PEPPERED CHICKEN (",
+              "price": 6000,
+              "description": ""
             },
             {
-              "name": "FRIED CHICKEN (1 PIECE)",
-              "price": 3000,
-              "description": "Single piece of fried chicken"
+              "name": "PEPPERED GOAT MEAT",
+              "price": 6000,
+              "description": ""
             },
             {
-              "name": "BEEF (2 PIECES)",
-              "price": 2500,
-              "description": "Two pieces of cooked beef"
+              "name": "PEPPERED BEEF ",
+              "price": 5500,
+              "description": ""
             },
             {
-              "name": "GOAT MEAT (2 PIECES)",
-              "price": 3500,
-              "description": "Two pieces of goat meat"
+              "name": "PEPPERED SNAIL",
+              "price": 7000,
+              "description": ""
             },
             {
-              "name": "FISH (1 PIECE)",
-              "price": 4000,
-              "description": "Single piece of fish"
+              "name": "PEPPERED PEPPERED DRY FISH",
+              "price": 6000,
+              "description": ""
             },
             {
-              "name": "SNAILS(2 PIECES)",
-              "price": 5000,
-              "description": "Two pieces of snails"
+              "name": "PEPPERED CATFISH/ CROAKER)",
+              "price": 8000,
+              "description": ""
             },
             {
-              "name": "SHRIMPS (PORTION)",
-              "price": 4000,
-              "description": "Portion of cooked shrimps"
-            },
-            {
-              "name": "KING PRAWNS (2 PIECES)",
-              "price": 5000,
-              "description": "Two large prawns"
-            },
-            {
-              "name": "TURKEY (1 PIECE)",
-              "price": 4000,
-              "description": "Single piece of turkey"
-            },
-            {
-              "name": "MOI MOI",
-              "price": 3000,
-              "description": "Steamed bean pudding with fish and egg"
+              "name": "TURKEY",
+              "price": 6000,
+              "description": ""
             }
           ]
         }
@@ -610,75 +632,138 @@
           "items": [
             {
               "name": "HENNESSY VS",
-              "price": 15000,
-              "description": "France Cognac - 40ml"
+              "price": 90000,
+              "description": "France Cognac"
             },
             {
               "name": "HENNESSY VSOP",
-              "price": 25000,
-              "description": "France Cognac - 40ml"
+              "price": 130000,
+              "description": "France Cognac"
             },
             {
-              "name": "HENNESSY XO",
-              "price": 65000,
-              "description": "France Cognac - 40ml"
+              "name": "MOET(BRUTE)",
+              "price": 160000,
+              "description": "France Cognac"
+            },
+			 {
+              "name": "MOET(ROSE)",
+              "price": 160000,
+              "description": "France Cognac"
             },
             {
-              "name": "RÉMY MARTIN VSOP",
-              "price": 22000,
-              "description": "France Cognac - 40ml"
+              "name": "BLACK LABEL",
+              "price": 40000,
+              "description": "12 Year Scotch Whisky"
             },
-            {
-              "name": "JACK DANIEL'S",
-              "price": 12000,
-              "description": "Tennessee Whiskey - 40ml"
-            },
-            {
-              "name": "JOHNNIE WALKER BLACK",
-              "price": 18000,
-              "description": "12 Year Scotch Whisky - 40ml"
+			{
+              "name": "RED LABEL",
+              "price": 30000,
+              "description": "12 Year Scotch Whisky"
             },
             {
               "name": "GLENFIDDICH 12",
-              "price": 25000,
-              "description": "Single Malt Scotch Whisky - 40ml"
+              "price": 120000,
+              "description": "Single Malt Scotch Whisky"
+            },
+			{
+              "name": "GLENFIDDICH 18",
+              "price": 180000,
+              "description": "Single Malt Scotch Whisky"
             }
           ]
         },
-        {
-          "id": "Wines",
-          "name": "Wines",
+		 {
+          "id": "Sparkling Wines",
+          "name": "Sparkling Wines",
           "items": [
             {
-              "name": "CARLO ROSSI RED",
+              "name": "MATEUS BRUT ROSE",
+              "price":20000,
+              "description": "California Red Wine"
+            },
+            {
+              "name": "ANDRE ROSE",
+              "price": 20000,
+              "description": "California White Wine"
+            },
+            {
+              "name": "ANDRE BRUT",
+              "price": 20000,
+              "description": ""
+            },
+            {
+              "name": " HENKEL ROSE",
+              "price": 45000,
+              "description": ""
+            },
+			{
+              "name": " HENKEL VARIETY",
+              "price": 10000,
+              "description": ""
+            },
+			{
+              "name": "PINK LADY PERRY",
               "price": 8000,
-              "description": "California Red Wine - 750ml"
+              "description": ""
             },
-            {
-              "name": "CARLO ROSSI WHITE",
-              "price": 8000,
-              "description": "California White Wine - 750ml"
-            },
-            {
-              "name": "ROBERTSON RED",
-              "price": 7000,
-              "description": "South African Red Wine - 750ml"
-            },
-            {
-              "name": "ROBERTSON WHITE",
-              "price": 7000,
-              "description": "South African White Wine - 750ml"
+			{
+              "name": " CASTLE DEFERO",
+              "price": 20000,
+              "description": ""
             },
             {
               "name": "FOUR COUSINS RED",
-              "price": 9000,
-              "description": "South African Red Wine - 750ml"
+              "price": 20000,
+              "description": ""
+            },
+            
+          ]
+        },
+        {
+          "id": "Red Wines",
+          "name": "Red Wines",
+          "items": [
+            {
+              "name": "CARLO ROSSI RED (SWEET)",
+              "price":25000,
+              "description": "California Red Wine"
             },
             {
-              "name": "FOUR COUSINS WHITE",
-              "price": 9000,
-              "description": "South African White Wine - 750ml"
-            }
+              "name": "CARLO ROSSI RED",
+              "price": 25000,
+              "description": "California White Wine"
+            },
+            {
+              "name": "ESCUDO ROJO",
+              "price": 23000,
+              "description": ""
+            },
+            {
+              "name": " TOMA TOMA BODEGAS LOZANO",
+              "price": 10000,
+              "description": ""
+            },
+			{
+              "name": " SAN SIMON CASTILO",
+              "price": 10000,
+              "description": ""
+            },
+			{
+              "name": " B&G",
+              "price": 15000,
+              "description": ""
+            },
+			{
+              "name": " THOMAS BARTON",
+              "price": 30000,
+              "description": ""
+            },
+            {
+              "name": "FOUR COUSINS RED",
+              "price": 20000,
+              "description": ""
+            },
+            
           ]
         },
         {
@@ -686,69 +771,79 @@
           "name": "Beer",
           "items": [
             {
-              "name": "HEINEKEN",
-              "price": 800,
-              "description": "Lager Beer - 33cl"
+              "name": "HEINEKEN BIG",
+              "price": 2500,
+              "description": "Lager Beer"
             },
             {
               "name": "BUDWEISER",
-              "price": 800,
-              "description": "American Lager - 33cl"
+              "price": 2000,
+              "description": "American Lager"
             },
             {
               "name": "STAR",
-              "price": 500,
-              "description": "Nigerian Lager - 33cl"
+              "price": 2500,
+              "description": "Nigerian Lager"
             },
             {
               "name": "GULDER",
-              "price": 600,
-              "description": "Nigerian Lager - 33cl"
+              "price": 2500,
+              "description": "Nigerian Lager"
             },
             {
               "name": "LIFE",
-              "price": 500,
-              "description": "Nigerian Lager - 33cl"
+              "price": 2000,
+              "description": "Nigerian Lager"
             },
             {
               "name": "33 EXPORT",
-              "price": 600,
-              "description": "Nigerian Lager - 33cl"
+              "price": 2500,
+              "description": "Nigerian Lager"
             },
             {
               "name": "HERO",
-              "price": 500,
-              "description": "Nigerian Lager - 33cl"
+              "price": 2000,
+              "description": "Nigerian Lager"
             },
             {
               "name": "SMIRNOFF ICE",
-              "price": 1000,
-              "description": "Flavored Malt Beverage - 27.5cl"
+              "price": 1200,
+              "description": "Flavored Malt Beverage "
             },
             {
               "name": "STAR RADLER",
-              "price": 500,
-              "description": "Shandy - 33cl"
+              "price": 2000,
+              "description": "Shandy "
             },
             {
-              "name": "ORIGIN",
-              "price": 600,
-              "description": "Herbal Alcoholic Drink - 33cl"
+              "name": "HARP",
+              "price": 1500,
+              "description": "Herbal Alcoholic Drink"
+            },
+			{
+              "name": "ORIGIN BEER",
+              "price": 2000,
+              "description": "Herbal Alcoholic Drink"
             },
             {
               "name": "DESPERADOS",
-              "price": 800,
-              "description": "Tequila Flavored Beer - 33cl"
+              "price": 2000,
+              "description": "Tequila Flavored Beer "
             },
             {
-              "name": "TIGER",
-              "price": 700,
-              "description": "Lager Beer - 33cl"
+              "name": "TIGER BEER",
+              "price": 1700,
+              "description": "Lager Beer "
             },
             {
-              "name": "TROPHY",
-              "price": 500,
-              "description": "Nigerian Lager - 33cl"
+              "name": "TROPHY BEER",
+              "price": 2000,
+              "description": "Nigerian Lager"
+            },
+			{
+              "name": "FLYING FISH",
+              "price": 1700,
+              "description": "Nigerian Lager"
             }
           ]
         },
@@ -758,43 +853,43 @@
           "items": [
             {
               "name": "GUINNESS FOREIGN EXTRA STOUT (BIG)",
-              "price": 1000,
-              "description": "600ml"
+              "price": 3000,
+              "description": ""
             },
             {
               "name": "GUINNESS FOREIGN EXTRA STOUT (MEDIUM)",
-              "price": 800,
-              "description": "33cl"
+              "price": 2000,
+              "description": ""
             },
             {
               "name": "GUINNESS FOREIGN EXTRA STOUT (SMALL)",
-              "price": 500,
-              "description": "18cl"
+              "price": 2000,
+              "description": ""
             },
             {
               "name": "GUINNESS EXTRA SMOOTH",
-              "price": 600,
-              "description": "33cl"
+              "price": 2000,
+              "description": ""
             },
             {
               "name": "LEGEND STOUT (BIG)",
-              "price": 1000,
-              "description": "600ml"
+              "price": 2500,
+              "description": ""
             },
             {
               "name": "LEGEND STOUT (MEDIUM)",
-              "price": 800,
-              "description": "33cl"
+              "price":2000,
+              "description": ""
             },
             {
               "name": "LEGEND STOUT (SMALL)",
-              "price": 500,
-              "description": "18cl"
+              "price": 2000,
+              "description": ""
             },
             {
               "name": "TROPHY STOUT",
-              "price": 500,
-              "description": "33cl"
+              "price": 2000,
+              "description": ""
             }
           ]
         },
@@ -805,22 +900,22 @@
             {
               "name": "RED BULL",
               "price": 2000,
-              "description": "Energy Drink - 25cl"
+              "description": "Energy Drink "
             },
             {
               "name": "POWER HORSE",
               "price": 1500,
-              "description": "Energy Drink - 25cl"
+              "description": "Energy Drink "
             },
             {
               "name": "MONSTER",
               "price": 1500,
-              "description": "Energy Drink - 50cl"
+              "description": "Energy Drink"
             },
             {
-              "name": "REDBULL SUGARFREE",
+              "name": "REDBULL SUGAR",
               "price": 2000,
-              "description": "Energy Drink - 25cl"
+              "description": "Energy Drink"
             }
           ]
         },
@@ -830,143 +925,50 @@
           "items": [
             {
               "name": "COCA-COLA",
-              "price": 400,
+              "price": 1000,
               "description": "33cl"
             },
             {
               "name": "FANTA",
-              "price": 400,
+              "price": 1000,
               "description": "33cl"
             },
             {
               "name": "SPRITE",
-              "price": 400,
+              "price": 1000,
               "description": "33cl"
             },
             {
               "name": "PEPSI",
-              "price": 400,
+              "price": 1000,
               "description": "33cl"
             },
             {
               "name": "MIRINDA",
-              "price": 400,
-              "description": "33cl"
-            },
-            {
-              "name": "7UP",
-              "price": 400,
-              "description": "33cl"
-            },
-            {
-              "name": "CHAPMAN",
-              "price": 1500,
-              "description": "Mocktail"
-            },
-            {
-              "name": "FRUIT JUICE",
               "price": 1000,
+              "description": "33cl"
+            },
+            {
+              "name": "MALT",
+              "price": 1500,
+              "description": "33cl"
+            },
+            
+            {
+              "name": "HOLLANDIA",
+              "price": 3500,
               "description": "Assorted flavors"
             },
             {
               "name": "BOTTLED WATER",
-              "price": 300,
-              "description": "50cl"
-            },
-            {
-              "name": "SPARKLING WATER",
-              "price": 800,
+              "price": 500,
               "description": "50cl"
             }
           ]
         }
       ]
     },
-    {
-      "id": "Shakes-Smoothies",
-      "name": "Shakes & Smoothies",
-      "description": "Fresh blended drinks",
-      "subMenus": [
-        {
-          "id": "Fruit-Shakes",
-          "name": "Fruit Shakes",
-          "items": [
-            {
-              "name": "MIXED FRUIT SHAKE",
-              "price": 3500,
-              "description": "Blend of pineapple, mango, banana, and orange"
-            },
-            {
-              "name": "STRAWBERRY BANANA SHAKE",
-              "price": 4000,
-              "description": "Fresh strawberries with ripe banana"
-            },
-            {
-              "name": "TROPICAL DELIGHT",
-              "price": 4500,
-              "description": "Mango, pineapple, coconut milk, and passion fruit"
-            },
-            {
-              "name": "BERRY BLAST",
-              "price": 5000,
-              "description": "Blueberries, raspberries, strawberries with yogurt"
-            },
-            {
-              "name": "AVOCADO SHAKE",
-              "price": 4000,
-              "description": "Creamy avocado with milk and honey"
-            }
-          ]
-        },
-        {
-          "id": "Protein-Shakes",
-          "name": "Protein Shakes",
-          "items": [
-            {
-              "name": "PEANUT BUTTER POWER",
-              "price": 5000,
-              "description": "Peanut butter, banana, oats, and whey protein"
-            },
-            {
-              "name": "CHOCOLATE PROTEIN",
-              "price": 5500,
-              "description": "Cocoa, banana, almond milk, and protein powder"
-            },
-            {
-              "name": "GREEN POWER SHAKE",
-              "price": 4800,
-              "description": "Spinach, kale, apple, ginger, and protein"
-            }
-          ]
-        },
-        {
-          "id": "Smoothies",
-          "name": "Fresh Smoothies",
-          "items": [
-            {
-              "name": "GREEN DETOX",
-              "price": 4000,
-              "description": "Cucumber, spinach, apple, lemon, and ginger"
-            },
-            {
-              "name": "MANGO TANGO",
-              "price": 3800,
-              "description": "Fresh mango, orange juice, and turmeric"
-            },
-            {
-              "name": "WATERMELON COOLER",
-              "price": 3200,
-              "description": "Watermelon, mint, and lime"
-            },
-            {
-              "name": "PINA COLADA SMOOTHIE",
-              "price": 4500,
-              "description": "Pineapple, coconut milk, and banana (non-alcoholic)"
-            }
-          ]
-        }
-      ]
-    },
+   
     
     {
       "id": "Desserts",
@@ -974,63 +976,122 @@
       "description": "Sweet endings and fresh selections",
       "subMenus": [
         {
-          "id": "Desserts",
-          "name": "Desserts",
+          "id": "Small Chops",
+          "name": "Small Chops",
           "items": [
             {
-              "name": "CHOCOLATE LAVA CAKE",
-              "price": 5500,
-              "description": "Warm cake with vanilla ice cream"
+              "name": "MEAT PIE",
+              "price": 1000,
+              "description": ""
             },
             {
-              "name": "FRUIT SALAD WITH ICE CREAM",
-              "price": 5000,
-              "description": "Mixed fruits with vanilla scoop"
+              "name": "CHICKEN PIE",
+              "price": 1500,
+              "description": ""
             },
             {
-              "name": "TIRAMISU",
-              "price": 6000,
+              "name": "DOUGHNUT",
+              "price": 1000,
               "description": "Italian coffee-flavored dessert"
             },
             {
-              "name": "CHIN CHIN",
-              "price": 2500,
+              "name": "FISH PIE",
+              "price": 1000,
               "description": "Crunchy fried pastry snack"
             },
             {
-              "name": "PUFF PUFF",
-              "price": 2000,
+              "name": "SAUSAGE ROLL",
+              "price": 1000,
               "description": "Sweet fried dough balls"
+            },
+			  {
+              "name": "BREAD ROLL",
+              "price": 1000,
+              "description": "Crunchy fried pastry snack"
+            },
+            {
+              "name": "SPRING ROLL",
+              "price": 1000,
+              "description": "Sweet fried dough balls"
+            },
+			  {
+              "name": "MOI-MOI",
+              "price": 2000,
+              "description": "Crunchy fried pastry snack"
+            },
+            {
+              "name": "CUP CAKE",
+              "price": 1000,
+              "description": "Sweet fried dough balls"
+            },
+			{
+              "name": "CHICKEN WING",
+              "price": 3000,
+              "description": "Crunchy fried pastry snack"
+            },
+            {
+              "name": "CHICKEN BURGER",
+              "price": 3500,
+              "description": "Sweet fried dough balls"
+            },
+			  {
+              "name": "BEEF BURGER",
+              "price": 3500,
+              "description": "Crunchy fried pastry snack"
             }
           ]
-        },
-        {
-          "id": "Fresh-Fruit",
-          "name": "Fresh Fruit",
+		},
+		  {
+        
+		"id": "Sharwama Wrap",
+          "name": "Sharwama Wrap",
           "items": [
             {
-              "name": "SEASONAL FRUIT PLATE",
-              "price": 4000,
-              "description": "Selection of ripe local and imported fruits"
-            },
-            {
-              "name": "WATERMELON SLICE",
-              "price": 2500,
-              "description": "Fresh chilled watermelon"
-            },
-            {
-              "name": "PINEAPPLE CHUNKS",
+              "name": "BEEF WITH HOT DOG",
               "price": 3000,
-              "description": "Sweet pineapple with lime sprinkle"
+              "description": ""
             },
-            {
-              "name": "FRUIT SMOOTHIE BOWL",
-              "price": 6000,
-              "description": "Thick smoothie with granola and fresh fruits"
+			{
+              "name": "CHICKEN WITH HOT DOG",
+              "price": 4000,
+              "description": ""
+            },
+			 {
+              "name": "MIXED MEAT WITH HOT DOG",
+              "price": 4000,
+              "description": ""
+            },
+			{
+              "name": "EXTRA HOT DOG",
+              "price": 2000,
+              "description": ""
             }
-          ]
-        }
+      ]
+    },
+	{
+        
+		"id": "Smoothies &  Fresh Juice",
+          "name": "Sharwama Wrap",
+          "items": [
+            {
+              "name": "PINEAPPLE JUICE",
+              "price": 2500,
+              "description": ""
+            },
+			{
+              "name": "FRUIT SLICES",
+              "price": 2500,
+              "description": ""
+            },
+			 {
+              "name": "FRUIT SMOOTHIE",
+              "price": 2500,
+              "description": ""
+            }
       ]
     }
+	
   ]
+		}
+		]
 }
