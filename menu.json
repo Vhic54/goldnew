@@ -616,7 +616,7 @@
         }
       ]
     },
-    {
+   /* {
       "id": "Drinks",
       "name": "Drinks",
       "description": "Fine spirits, wines, beers and soft drinks",
@@ -959,7 +959,7 @@
           ]
         }
       ]
-    },
+    },*/
     {
       "id": "Desserts",
       "name": "Desserts & Fruit",
