@@ -1,102 +1,26 @@
- {
-  "restaurant": "",
+{
+  "restaurant": "The Garden Terrace",
   "currency": "₦",
   "menus": [
     {
-    
-      "id": "Food",
-      "name": "Food",
+      "id": "breakfast",
+      "name": "Breakfast",
       "description": "Start your day with us",
       "subMenus": [
-	     {
-          "id": "Breakfast",
-          "name": "Breakfast",
-          "items": [
-			{"name": " OAT WITH MILK/SUGAR", "price": 2000, "description": ""},
-            {"name": " CORNFLAKES WITH MILK/SUGAR ", "price": 2000, "description": ""},
-            {"name": " CUSTARD WITH MILK/SUGAR", "price": 2000, "description": ""},
-            {"name": " BOILED POTATOES/YAM/PLANTAIN WITH TWO EGGS ", "price": 5000, "description": ""},
-            {"name": " PLAIN NOODLES ONLY ", "price": 2000, "description": "Assorted pastries, cheeses, cold cuts, and fruits"},
-			{"name": " PLAIN NOODLES WITH TWO BOILED EGGS ", "price": 3500, "description": ""},
-            {"name": " VEGETABLE NOODLES ONLY ", "price": 3000, "description": ""},
-			{"name": " VEGETABLE NOODLES WITH FIRED EGGS ", "price": 3500, "description": ""},
-			{"name": " BEANS ", "price": 1500, "description": ""}, 
-			{"name": " BEAKED BEANS ", "price": 1500, "description": ""}, 
-			{"name": " TOASTED OR FRESH BREAD ", "price": 2000, "description": ""}, 
-			{"name": " LIPTON TEA OR COFFEE OR HOT CHOCOLATE ", "price": 1000, "description": ""}, 
-			{"name": " BREAKFAST SAUSAGE (4PCS) ", "price": 2000, "description": ""}, 
-			{"name": " YAM/PLANTAIN PORRIDGE (NO PROTEIN INSIDE) ", "price": 2000, "description": ""}, 
-			{"name": " BOILED YAM OR PLANTAIN WITH STEW ", "price": 1500, "description": ""},
-			{"name": " TOMATO SAUCE TIN MILK ", "price": 1500, "description": ""},
-			{"name": " CLUB SANDWICH ", "price": 4000, "description": ""},
-			{"name": " CHICKEN SANDWICH", "price": 4500, "description": ""},
-			{"name": " PANCAKE WITH SCRAMBLED EGG/SYRUP ", "price": 4500, "description": ""}, 
-			{"name": " WAFFLES WITH SCRAMBLED EGG/SYRUP ", "price": 4500, "description": ""}, 
-			{"name": " FRENCH TOAST WITH SCRAMBLED EGG/SYRUP ", "price": 4500, "description": ""},  
-			{"name": " EGG SAUCE ", "price": 2000, "description": ""},
-			{"name": " TOMATOES OMELET ", "price": 2500, "description": ""}, 
-			{"name": " PLAIN OMELET/FRIED EGG ", "price": 2000, "description": ""},
-			{"name": "SCRAMBLE EGG ", "price": 2000, "description": ""},
-			{"name": " SUNNY SIDE UP", "price": 2000, "description": ""},
-			{"name": " BOILED EGG (2PCS)", "price": 1500, "description": ""}
-			
-          ]
-		 
-
-        },
-         {
-          "id": "continental",
-          "name": "Continental Cuisine",
-          "items": [
-            {"name": "CHICKEN CONTINENTAL CUISINE", "price": 3500, "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE SERVED WITH CHICKEN"},
-            {"name": "GOAT MEAT CONTINENTAL CUISINE", "price": 5500, "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE SERVED WITH GOAT MEAT"},
-            {"name": "BEEF CONTINENTAL CUISINE", "price": 4000, "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE SERVED WITH BEEF ASSORTED"},
-            {"name": "FISH CONTINENTAL CUISINE", "price": 6500, "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE SERVED WITH FRESH FISH/DRIED FISH"},
-            {"name": "SNAIL CONTINENTAL CUISINE", "price": 8500, "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE SERVED WITH SNAIL"},
-			{"name": "SHRIMP CONTINENTAL CUISINE", "price": 6500, "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE SERVED WITH SHRIMPS"},
-            {"name": "KING PRAWN CONTINENTAL CUISINE", "price": 8500, "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE SERVED WITH KING PRAWNS"},
-			{"name": "TURKEY CONTINENTAL CUISINE", "price": 6500, "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE SERVED WITH TURKEY"}
-            
-		  ]
-        },
-		
         {
-          "id": "Chinese Cuisine",
-          "name": "Chinese Cuisine", 
+          "id": "continental",
+          "name": "Continental Breakfast",
           "items": [
-			{"name": "BEEF CONTINENTAL RICE", "price": 3500, "description": "CHINESE RICE SERVED WITH BEEF"},
-            {"name": "GOAT MEAT CONTINENTAL RICE", "price": 5500, "description": "CHINESE RICE SERVED WITH GOAT MEAT"},
-            {"name": "BEEF CONTINENTAL RICE", "price": 4000, "description": "CHINESE RICE SERVED WITH BEEF ASSORTED"},
-            {"name": "FISH CONTINENTAL RICE", "price": 6500, "description": "CHINESE RICE SERVED WITH FRESH FISH/ DRIED FISH"},
-            {"name": "SNAIL CONTINENTAL RICE", "price": 8500, "description": "CHINESE RICE SERVED WITH SNAIL"},
-			{"name": "SHRIMP CONTINENTAL RICE", "price": 6500, "description": "CHINESE RICE SERVED WITH SHRIMPS"},
-            {"name": "KING PRAWN CONTINENTAL RICE", "price": 8500, "description": "CHINESE RICE SERVED WITH KING PRAWNS"},
-			{"name": "TURKEY CONTINENTAL RICE", "price": 6500, "description": "CHINESE RICE SERVED WITH TURKEY"}
-            
-			]	
-		}, 
-		
-		{
-          "id": "NIgerian Cuisine",
-          "name": "NIgerian Cuisine",
-          "items": [
-            {"name": "EGUSI SOUP ", "price": 7500, "description": ""},
-            {"name": "BITTERLEAPSOUP", "price": 4500, "description": ""},
-            {"name": "OHA SOUP", "price": 5000, "description": ""},
-            {"name": "OGBONO SOUP", "price": 3500, "description": ""},
-            {"name": "OKRO SOUP", "price": 3000, "description": ""},
-			{"name": "AFANG SOUP ", "price": 7500, "description": ""},
-            {"name": "BITTER-LEAF SOUP", "price": 4500, "description": ""},
-            {"name": "VEGETABLE SOUP", "price": 5000, "description": ""},
-            {"name": "OFE-OWERRI SOUP", "price": 3500, "description": ""},
-            {"name": "NSALA SOUP", "price": 3000, "description": ""}
+            {"name": "Croissant & Jam", "price": 3500, "description": "Butter croissant with strawberry preserve"},
+            {"name": "Fresh Fruit Platter", "price": 5500, "description": "Seasonal selection of melon, berries, and citrus"},
+            {"name": "Granola & Yogurt", "price": 4000, "description": "House-made granola with Greek yogurt and honey"},
+            {"name": "Avocado Toast", "price": 6500, "description": "Sourdough with smashed avocado and poached egg"},
+            {"name": "Continental Platter", "price": 8500, "description": "Assorted pastries, cheeses, cold cuts, and fruits"}
           ]
-        }, 
-		 
-
-			{
-          "id": "Plain Meal",
-          "name": "Plain Meal",
+        },
+        {
+          "id": "local-breakfast",
+          "name": "Local Specialties",
           "items": [
             {"name": "Full English Breakfast", "price": 7500, "description": "Eggs, bacon, sausage, beans, toast, and grilled tomato"},
             {"name": "Congee with Sides", "price": 4500, "description": "Rice porridge with century egg, pickles, and fried dough"},
@@ -104,18 +28,7 @@
             {"name": "Akara & Pap", "price": 3500, "description": "Bean cakes with fermented corn pudding"},
             {"name": "Moi Moi", "price": 3000, "description": "Steamed bean pudding with fish and egg"}
           ]
-        },
-			{
-          "id": "Plain Meal",
-          "name": "Protein",
-          "items": [
-            {"name": "Full English Breakfast", "price": 7500, "description": "Eggs, bacon, sausage, beans, toast, and grilled tomato"},
-            {"name": "Congee with Sides", "price": 4500, "description": "Rice porridge with century egg, pickles, and fried dough"},
-            {"name": "Yam & Egg Sauce", "price": 5000, "description": "Boiled yam with spicy tomato egg sauce"},
-            {"name": "Akara & Pap", "price": 3500, "description": "Bean cakes with fermented corn pudding"},
-            {"name": "Moi Moi", "price": 3000, "description": "Steamed bean pudding with fish and egg"}
-          ]
-        },
+        }
       ]
     },
     {
@@ -155,29 +68,93 @@
         }
       ]
     },
-    
-    
     {
-      "id": "Drinks",
-      "name": "Drinks",
+      "id": "lunch-dinner",
+      "name": "Lunch & Dinner",
+      "description": "Main courses and specialties",
+      "subMenus": [
+        {
+          "id": "starters",
+          "name": "Starters",
+          "items": [
+            {"name": "Soup of the Day", "price": 3500, "description": "Chef's daily selection with fresh bread"},
+            {"name": "Caesar Salad", "price": 5500, "description": "Romaine, parmesan, croutons, classic dressing"},
+            {"name": "Bruschetta Trio", "price": 4800, "description": "Tomato, mushroom, and olive tapenade"},
+            {"name": "Spicy Wings", "price": 6000, "description": "Crispy chicken wings with hot sauce"}
+          ]
+        },
+        {
+          "id": "rice-dishes",
+          "name": "Rice Dishes",
+          "items": [
+            {"name": "Jollof Rice & Chicken", "price": 7500, "description": "Classic West African tomato rice with grilled chicken"},
+            {"name": "Fried Rice Special", "price": 8000, "description": "Chinese-style fried rice with shrimp and vegetables"},
+            {"name": "Coconut Rice", "price": 7000, "description": "Fragrant coconut rice with grilled fish"},
+            {"name": "Biryani", "price": 9500, "description": "Spiced basmati rice with lamb and saffron"},
+            {"name": "Seafood Rice", "price": 12000, "description": "Rice with prawns, calamari, and mussels"}
+          ]
+        },
+        {
+          "id": "swallows",
+          "name": "Swallows & Soups",
+          "items": [
+            {"name": "Pounded Yam & Egusi", "price": 6500, "description": "Smooth pounded yam with melon seed soup"},
+            {"name": "Amala & Ewedu", "price": 6000, "description": "Yam flour with jute leaf soup and stew"},
+            {"name": "Semo & Ogbono", "price": 6500, "description": "Semolina with draw soup and assorted meat"},
+            {"name": "Eba & Vegetable Soup", "price": 6000, "description": "Cassava flakes with mixed vegetable soup"},
+            {"name": "Fufu & Bitterleaf Soup", "price": 7000, "description": "Fermented cassava with traditional bitterleaf soup"}
+          ]
+        },
+        {
+          "id": "grill",
+          "name": "From the Grill",
+          "items": [
+            {"name": "Suya Platter", "price": 8500, "description": "Spiced grilled beef skewers with onions and peppers"},
+            {"name": "Grilled Tilapia", "price": 10000, "description": "Whole grilled fish with spicy marinade"},
+            {"name": "BBQ Chicken", "price": 9000, "description": "Half chicken with barbecue sauce and coleslaw"},
+            {"name": "Lamb Chops", "price": 15000, "description": "Grilled lamb with rosemary and garlic"},
+            {"name": "Mixed Grill", "price": 18000, "description": "Assorted grilled meats with vegetables"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wines",
+      "name": "Wines",
+      "description": "Fine selection from around the world",
+      "subMenus": [
+        {
+          "id": "red-wines",
+          "name": "Red Wines",
+          "items": [
+            {"name": "House Red (Glass)", "price": 4000, "description": "Daily selection, ask your server"},
+            {"name": "Four Cousins Sweet Red", "price": 12000, "description": "South Africa - Bottle"},
+            {"name": "Carlo Rossi", "price": 15000, "description": "California Red - Bottle"},
+            {"name": "Baron de Valls", "price": 18000, "description": "Spanish Tempranillo - Bottle"},
+            {"name": "Moët & Chandon Rosé", "price": 85000, "description": "French Champagne - Bottle"},
+            {"name": "Dom Pérignon", "price": 350000, "description": "Vintage Champagne - Bottle"}
+          ]
+        },
+        {
+          "id": "white-wines",
+          "name": "White Wines",
+          "items": [
+            {"name": "House White (Glass)", "price": 3500, "description": "Daily selection, ask your server"},
+            {"name": "Four Cousins White", "price": 11000, "description": "South Africa - Bottle"},
+            {"name": "Carlo Rossi White", "price": 14000, "description": "California - Bottle"},
+            {"name": "Blue Nun", "price": 16000, "description": "German White Wine - Bottle"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spirits",
+      "name": "Spirits & Premium",
       "description": "Fine spirits and premium selections",
       "subMenus": [
         {
-          "id": "Spirits",
-          "name": "Spirits",
-          "items": [
-            {"name": "Hennessy VS", "price": 15000, "description": "France - 40ml"},
-            {"name": "Hennessy VSOP", "price": 25000, "description": "France - 40ml"},
-            {"name": "Hennessy XO", "price": 65000, "description": "France - 40ml"},
-            {"name": "Rémy Martin VSOP", "price": 22000, "description": "France - 40ml"},
-            {"name": "Jack Daniel's", "price": 12000, "description": "Tennessee Whiskey - 40ml"},
-            {"name": "Johnnie Walker Black", "price": 18000, "description": "12 Year Scotch - 40ml"},
-            {"name": "Glenfiddich 12", "price": 25000, "description": "Single Malt Scotch - 40ml"}
-          ]
-        },
-		   {
-          "id": "Wines",
-          "name": "Wines",
+          "id": "cognac-whiskey",
+          "name": "Cognac & Whiskey",
           "items": [
             {"name": "Hennessy VS", "price": 15000, "description": "France - 40ml"},
             {"name": "Hennessy VSOP", "price": 25000, "description": "France - 40ml"},
@@ -189,32 +166,8 @@
           ]
         },
         {
-          "id": "Beer & Stout",
-          "name": "Beer & Stout",
-          "items": [
-            {"name": "Gordon's Gin", "price": 8000, "description": "London Dry Gin - 40ml"},
-            {"name": "Bombay Sapphire", "price": 15000, "description": "Premium Gin - 40ml"},
-            {"name": "Smirnoff Vodka", "price": 7000, "description": "Triple Distilled - 40ml"},
-            {"name": "Absolut Vodka", "price": 12000, "description": "Swedish Vodka - 40ml"},
-            {"name": "Baileys Irish Cream", "price": 10000, "description": "Irish Whiskey Cream - 40ml"},
-            {"name": "Martell VS", "price": 18000, "description": "French Cognac - 40ml"}
-          ]
-        },
-		 {
-          "id": "Energy Drink",
-          "name": "Energy Drink",
-          "items": [
-            {"name": "Gordon's Gin", "price": 8000, "description": "London Dry Gin - 40ml"},
-            {"name": "Bombay Sapphire", "price": 15000, "description": "Premium Gin - 40ml"},
-            {"name": "Smirnoff Vodka", "price": 7000, "description": "Triple Distilled - 40ml"},
-            {"name": "Absolut Vodka", "price": 12000, "description": "Swedish Vodka - 40ml"},
-            {"name": "Baileys Irish Cream", "price": 10000, "description": "Irish Whiskey Cream - 40ml"},
-            {"name": "Martell VS", "price": 18000, "description": "French Cognac - 40ml"}
-          ]
-        },
-		 {
-          "id": "Soft Drink",
-          "name": "Soft Drink",
+          "id": "other-spirits",
+          "name": "Gin, Vodka & More",
           "items": [
             {"name": "Gordon's Gin", "price": 8000, "description": "London Dry Gin - 40ml"},
             {"name": "Bombay Sapphire", "price": 15000, "description": "Premium Gin - 40ml"},
@@ -255,1088 +208,4 @@
       ]
     }
   ]
-}{
-  "restaurant": "",
-  "currency": "₦",
-  "menus": [
-    {
-      "id": "Food",
-      "name": "Food",
-      "description": "Start your day with our food category menu",
-      "subMenus": [
-        {
-          "id": "Breakfast",
-          "name": "Breakfast",
-          "items": [
-            {
-              "name": "OAT WITH MILK/SUGAR",
-              "price": 2000,
-              "description": "Healthy oatmeal with milk and sugar"
-            },
-            {
-              "name": "CORNFLAKES WITH MILK/SUGAR",
-              "price": 2000,
-              "description": "Crispy cornflakes served with milk and sugar"
-            },
-            {
-              "name": "CUSTARD WITH MILK/SUGAR",
-              "price": 2000,
-              "description": "Creamy custard with milk and sugar"
-            },
-            {
-              "name": "BOILED POTATOS/YAM/PLANTAIN WITH TWO EGGS",
-              "price": 5000,
-              "description": "Boiled tubers served with two eggs"
-            },
-            {
-              "name": "PLAIN NOODLES ONLY",
-              "price": 2000,
-              "description": "Assorted pastries, cheeses, cold cuts, and fruits"
-            },
-            {
-              "name": "PLAIN NOODLES WITH TWO BOILED EGGS",
-              "price": 3500,
-              "description": "Instant noodles with two boiled eggs"
-            },
-            {
-              "name": "VEGETABLE NOODLES ONLY",
-              "price": 3000,
-              "description": "Noodles stir-fried with vegetables"
-            },
-            {
-              "name": "VEGETABLE NOODLES WITH FRIED EGGS",
-              "price": 3500,
-              "description": "Vegetable noodles topped with fried eggs"
-            },
-            {
-              "name": "BEANS",
-              "price": 1500,
-              "description": "Plain cooked beans"
-            },
-            {
-              "name": "BAKED BEANS",
-              "price": 1500,
-              "description": "Beans baked in tomato sauce"
-            },
-            {
-              "name": "TOASTED OR FRESH BREAD",
-              "price": 2000,
-              "description": "Choice of toasted or fresh sliced bread"
-            },
-            {
-              "name": "LIPTON TEA OR COFFEE OR HOT CHOCOLATE",
-              "price": 1000,
-              "description": "Hot beverage of your choice"
-            },
-            {
-              "name": "BREAKFAST SAUSAGE (4PCS)",
-              "price": 2000,
-              "description": "Four pieces of breakfast sausage"
-            },
-            {
-              "name": "YAM/PLANTAIN PORRIDGE (NO PROTEIN INSIDE)",
-              "price": 2000,
-              "description": "Yam or plantain porridge"
-            },
-            {
-              "name": "BOILED YAM OR PLANTAIN WITH STEW",
-              "price": 1500,
-              "description": "Boiled tubers served with tomato stew"
-            },
-            {
-              "name": "TOMATO SAUCE TIN MILK",
-              "price": 1500,
-              "description": "Tomato sauce with milk"
-            },
-            {
-              "name": "CLUB SANDWICH",
-              "price": 4000,
-              "description": "Triple-decker sandwich with chicken, egg, and veggies"
-            },
-            {
-              "name": "CHICKEN SANDWICH",
-              "price": 4500,
-              "description": "Grilled chicken sandwich"
-            },
-            {
-              "name": "PANCAKE WITH SCRAMBLED EGG/SYRUP",
-              "price": 4500,
-              "description": "Fluffy pancakes with eggs or syrup"
-            },
-            {
-              "name": "WAFFLES WITH SCRAMBLED EGG/SYRUP",
-              "price": 4500,
-              "description": "Crispy waffles with eggs or syrup"
-            },
-            {
-              "name": "FRENCH TOAST WITH SCRAMBLED EGG/SYRUP",
-              "price": 4500,
-              "description": "Egg-battered toast with eggs or syrup"
-            },
-            {
-              "name": "EGG SAUCE",
-              "price": 2000,
-              "description": "Scrambled eggs in tomato sauce"
-            },
-            {
-              "name": "TOMATOES OMELET",
-              "price": 2500,
-              "description": "Omelet with fresh tomatoes"
-            },
-            {
-              "name": "PLAIN OMELET/FRIED EGG",
-              "price": 2000,
-              "description": "Simple omelet or fried egg"
-            },
-            {
-              "name": "SCRAMBLE EGG",
-              "price": 2000,
-              "description": "Scrambled eggs"
-            },
-            {
-              "name": "SUNNY SIDE UP",
-              "price": 2000,
-              "description": "Fried egg with runny yolk"
-            },
-            {
-              "name": "BOILED EGG (2PCS)",
-              "price": 1500,
-              "description": "Two boiled eggs"
-            }
-          ]
-        },
-        {
-          "id": "Continental",
-          "name": "Continental Cuisine",
-          "items": [
-            {
-              "name": "CHICKEN CONTINENTAL CUISINE",
-              "price": 9500,
-              "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH CHICKEN"
-            },
-            {
-              "name": "GOAT MEAT CONTINENTAL CUISINE",
-              "price": 9500,
-              "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH GOAT MEAT"
-            },
-            {
-              "name": "BEEF CONTINENTAL CUISINE",
-              "price": 8000,
-              "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH BEEF"
-            },
-            {
-              "name": "FISH CONTINENTAL CUISINE",
-              "price": 9000,
-              "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH FISH"
-            },
-            {
-              "name": "SNAIL CONTINENTAL CUISINE",
-              "price": 10000,
-              "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH SNAIL"
-            },
-            {
-              "name": "SHRIMP CONTINENTAL CUISINE",
-              "price": 7000,
-              "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH SHRIMP"
-            },
-            {
-              "name": "KING PRAWN CONTINENTAL CUISINE",
-              "price": 8000,
-              "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH KING PRAWN"
-            },
-            {
-              "name": "TURKEY CONTINENTAL CUISINE",
-              "price": 9000,
-              "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH TURKEY"
-            }
-          ]
-        },
-        {
-          "id": "Chinese",
-          "name": "Chinese Cuisine",
-          "items": [
-            {
-              "name": "BEEF CHINESE RICE",
-              "price": 8500,
-              "description": "CHINESE RICE SERVED WITH BEEF"
-            },
-            {
-              "name": "CHICKEN CHINESE RICE",
-              "price": 9000,
-              "description": "CHINESE RICE SERVED WITH CHICKEN"
-            },
-            {
-              "name": "SHRIMPS CHINESE RICE",
-              "price": 8000,
-              "description": "CHINESE RICE SERVED WITH SHRIMPS"
-            },
-            {
-              "name": "FISH CHINESE RICE",
-              "price": 8000,
-              "description": "CHINESE RICE SERVED WITH FISH"
-            },
-            {
-              "name": "SNAIL CHINESE RICE",
-              "price": 9000,
-              "description": "CHINESE RICE SERVED WITH SNAIL"
-            },
-            {
-              "name": "TURKEY CHINESE RICE",
-              "price": 9000,
-              "description": "CHINESE RICE SERVED WITH TURKEY"
-            },
-            {
-              "name": "GOAT MEAT CHINESE RICE",
-              "price": 8500,
-              "description": "CHINESE RICE SERVED WITH GOAT MEAT"
-            },
-            {
-              "name": "KING PRAWN CHINESE RICE",
-              "price": 8500,
-              "description": "CHINESE RICE SERVED WITH KING PRAWNS"
-            },
-            {
-              "name": "HOUSE SPECIAL (2 PROTEIN COMBO)",
-              "price": 8500,
-              "description": "CHINESE RICE SERVED WITH 2 PROTEINS OF CHOICE"
-            }
-          ]
-        },
-        {
-          "id": "Nigerian-Soups",
-          "name": "Nigerian Soups",
-          "items": [
-            {
-              "name": "EGUSI SOUP",
-              "price": 2000,
-              "description": "Melon seed soup with vegetables "
-            },
-            {
-              "name": "BITTER-LEAF SOUP",
-              "price": 2000,
-              "description": "Traditional soup with bitter leaf"
-            },
-            {
-              "name": "OHA SOUP",
-              "price": 2000,
-              "description": "African rosewood leaf soup"
-            },
-            {
-              "name": "OGBONO SOUP",
-              "price": 2500,
-              "description": "Wild mango seed soup"
-            },
-            {
-              "name": "OKRO SOUP",
-              "price": 2500,
-              "description": "Okra vegetable soup"
-            },
-            {
-              "name": "AFANG SOUP",
-              "price": 3000,
-              "description": "Wild spinach and waterleaf soup"
-            },
-            {
-              "name": "VEGETABLE SOUP",
-              "price": 3000,
-              "description": "Mixed green vegetable soup"
-            },
-            {
-              "name": "OFE-OWERRI SOUP",
-              "price": 3000,
-              "description": "Traditional Owerri-style soup"
-            },
-            {
-              "name": "NSALA SOUP",
-              "price": 3000,
-              "description": "White soup with spices"
-            }
-          ]
-        },
-        {
-          "id": "Local Delicacy",
-          "name": "Local Delicacy",
-          "items": [
-            {
-              "name": "ISI EWU WITH UGBA",
-              "price": 12000,
-              "description": "Spicy goat head with palm oil and utazi leaves"
-            },
-            {
-              "name": "NKWUOBI WITH UGBA",
-              "price": 10000,
-              "description": "Palm oil bean mash with fermented oil bean seeds"
-            },
-            {
-              "name": "ASUN WITH PLANTAIN",
-              "price": 6000,
-              "description": "Spicy grilled goat meat with fried plantain"
-            },
-            {
-              "name": "GIZZY DODO",
-              "price": 5500,
-              "description": "Gizzard and fried plantain in spicy sauce"
-            }
-          ]
-        },
-        {
-          "id": "Swallow",
-          "name": "Swallow (Fufu, Garri, etc.)",
-          "items": [
-            {
-              "name": "POUNDED YAM",
-              "price": 1000,
-              "description": "Smooth pounded yam"
-            },
-            {
-              "name": "GARRI (EBA)",
-              "price": 800,
-              "description": "Cassava flakes made into dough"
-            },
-            {
-              "name": "SEMOLINA",
-              "price": 1000,
-              "description": "Semolina wheat dough"
-            },
-            {
-              "name": "WHEAT",
-              "price": 1000,
-              "description": "Whole wheat dough"
-            },
-            {
-              "name": "AMALA",
-              "price": 800,
-              "description": "Yam flour dough"
-            },
-            {
-              "name": "STARCH",
-              "price": 800,
-              "description": "Cassava starch dough"
-            },
-            {
-              "name": "FUFU",
-              "price": 800,
-              "description": "Fermented cassava dough"
-            },
-            {
-              "name": "SEMOVIDA",
-              "price": 1000,
-              "description": "Fine semolina dough"
-            }
-          ]
-        },
-        {
-          "id": "Sauce",
-          "name": "Sauce",
-          "items": [
-            {
-              "name": "TOMATO SAUCE",
-              "price": 2000,
-              "description": "Rich tomato-based sauce"
-            },
-            {
-              "name": "VEGETABLE SAUCE",
-              "price": 2000,
-              "description": "Mixed vegetable sauce"
-            },
-            {
-              "name": "BEEF CURRY SAUCE",
-              "price": 5000,
-              "description": "Spicy curry sauce with beef"
-            },
-            {
-              "name": "CHICKEN CURRY SAUCE",
-              "price": 7000,
-              "description": "Spicy curry sauce with chicken"
-            },
-            {
-              "name": "SHREDDED BEEF SAUCE",
-              "price": 5000,
-              "description": "Shredded beef in rich sauce"
-            },
-            {
-              "name": "CHICKEN WITH MUSHROOM SAUCE",
-              "price": 5500,
-              "description": "Chicken in creamy mushroom sauce"
-            },
-            {
-              "name": "KIDNEY LIVER SAUCE",
-              "price": 4000,
-              "description": "Organ meat sauce with kidney and liver"
-            }
-          ]
-        },
-        {
-          "id": "Hot Soup",
-          "name": "Hot Soup",
-          "items": [
-            {
-              "name": "CHICKEN CORN SOUP",
-              "price": 7000,
-              "description": "Creamy corn soup with chicken"
-            },
-            {
-              "name": "CHICKEN PEPPER SOUP",
-              "price": 6000,
-              "description": "Spicy pepper soup with chicken"
-            },
-            {
-              "name": "BEEF PEPPER SOUP",
-              "price": 5000,
-              "description": "Spicy pepper soup with beef"
-            },
-            {
-              "name": "GOAT MEAT PEPPER SOUP",
-              "price": 6000,
-              "description": "Spicy pepper soup with goat meat"
-            },
-            {
-              "name": "GIZZARD PEPPER SOUP",
-              "price": 5000,
-              "description": "Spicy pepper soup with chicken gizzard"
-            },
-            {
-              "name": "COWLEG PEPPER SOUP",
-              "price": 6000,
-              "description": "Spicy pepper soup with cow leg"
-            },
-            {
-              "name": "FRESH FISH PEPPER SOUP",
-              "price": 6000,
-              "description": "Spicy pepper soup with fresh fish"
-            },
-            {
-              "name": "ASSORTED PEPPER SOUP",
-              "price": 5000,
-              "description": "Spicy pepper soup with mixed meats"
-            },
-            {
-              "name": "SNAIL PEPPER SOUP",
-              "price": 6000,
-              "description": "Spicy pepper soup with snails"
-            },
-            {
-              "name": "TURKEY PEPPER SOUP",
-              "price": 7000,
-              "description": "Spicy pepper soup with turkey"
-            }
-          ]
-        },
-        {
-          "id": "Cold Starters",
-          "name": "Cold Starters",
-          "items": [
-            {
-              "name": "VEGETABLE SALAD",
-              "price": 2000,
-              "description": "Fresh mixed vegetable salad"
-            },
-            {
-              "name": "RUSSIAN SALAD SERVER COLD",
-              "price": 3500,
-              "description": "Cold Russian-style potato and vegetable salad"
-            },
-            {
-              "name": "CHICKEN SALAD",
-              "price": 5000,
-              "description": "Grilled chicken with mixed greens"
-            },
-            {
-              "name": "PASTA SALAD",
-              "price": 2500,
-              "description": "Cold pasta with vegetables and dressing"
-            },
-            {
-              "name": "POTATO SALAD",
-              "price": 2500,
-              "description": "Creamy potato salad"
-            },
-            {
-              "name": "TUNA SALAD",
-              "price": 5000,
-              "description": "Tuna salad with vegetables"
-            }
-          ]
-        },
-        {
-          "id": "Pasta",
-          "name": "Pasta",
-          "items": [
-            {
-              "name": "SPAGHETTI VEGETARIAN",
-              "price": 3500,
-              "description": "Spaghetti with mixed vegetables"
-            },
-            {
-              "name": "SPAGHETTI BOLOGNAISE",
-              "price": 10000,
-              "description": "Spaghetti with meat sauce"
-            },
-            {
-              "name": "SPAGHETTI CARBONARA",
-              "price": 10000,
-              "description": "Spaghetti with creamy egg and bacon sauce"
-            },
-            {
-              "name": "CHICKEN FRIED NOODLES",
-              "price": 7000,
-              "description": "Stir-fried noodles with chicken"
-            },
-            {
-              "name": "BEEF FRIED NOODLES",
-              "price": 7000,
-              "description": "Stir-fried noodles with beef"
-            },
-            {
-              "name": "SHRIMP FRIED NOODLES",
-              "price": 7000,
-              "description": "Stir-fried noodles with shrimp"
-            }
-          ]
-        },
-        {
-          "id": "Plain-Meal",
-          "name": "Plain Meal",
-          "items": [
-            {
-              "name": "GRILLED CHICKEN",
-              "price": 10000,
-              "description": "Charcoal-grilled chicken"
-            },
-            {
-              "name": "BEEF KEBAB",
-              "price": 6000,
-              "description": "Skewered and grilled beef"
-            },
-            {
-              "name": "CHINESE FRIED RICE",
-              "price": 3500,
-              "description": "Oriental-style fried rice"
-            },
-            {
-              "name": "CHINESE EGG FRIED RICE",
-              "price": 5000,
-              "description": "Fried rice with scrambled eggs"
-            },
-            {
-              "name": "PLAIN FRIED OR JELLOF RICE",
-              "price": 3000,
-              "description": "Choice of fried rice or jollof rice"
-            },
-            {
-              "name": "WHITE RICE AND STEW",
-              "price": 2000,
-              "description": "Plain rice with tomato stew"
-            }
-          ]
-        },
-        {
-          "id": "Protein",
-          "name": "Protein",
-          "items": [
-            {
-              "name": "PEPPERED CHICKEN",
-              "price": 6000,
-              "description": "Spicy peppered chicken"
-            },
-            {
-              "name": "PEPPERED GOAT MEAT",
-              "price": 6000,
-              "description": "Spicy peppered goat meat"
-            },
-            {
-              "name": "PEPPERED BEEF",
-              "price": 5500,
-              "description": "Spicy peppered beef"
-            },
-            {
-              "name": "PEPPERED SNAIL",
-              "price": 7000,
-              "description": "Spicy peppered snails"
-            },
-            {
-              "name": "PEPPERED DRY FISH",
-              "price": 6000,
-              "description": "Spicy peppered dry fish"
-            },
-            {
-              "name": "PEPPERED CATFISH/CROAKER",
-              "price": 8000,
-              "description": "Spicy peppered catfish or croaker"
-            },
-            {
-              "name": "TURKEY",
-              "price": 6000,
-              "description": "Roasted or grilled turkey"
-            }
-          ]
-        }
-      ]
-    },
-   /* {
-      "id": "Drinks",
-      "name": "Drinks",
-      "description": "Fine spirits, wines, beers and soft drinks",
-      "subMenus": [
-        {
-          "id": "Spirits",
-          "name": "Spirits",
-          "items": [
-            {
-              "name": "HENNESSY VS",
-              "price": 90000,
-              "description": "France Cognac"
-            },
-            {
-              "name": "HENNESSY VSOP",
-              "price": 130000,
-              "description": "France Cognac"
-            },
-            {
-              "name": "MOET(BRUTE)",
-              "price": 160000,
-              "description": "France Cognac"
-            },
-            {
-              "name": "MOET(ROSE)",
-              "price": 160000,
-              "description": "France Cognac"
-            },
-            {
-              "name": "BLACK LABEL",
-              "price": 40000,
-              "description": "12 Year Scotch Whisky"
-            },
-            {
-              "name": "RED LABEL",
-              "price": 30000,
-              "description": "12 Year Scotch Whisky"
-            },
-            {
-              "name": "GLENFIDDICH 12",
-              "price": 120000,
-              "description": "Single Malt Scotch Whisky"
-            },
-            {
-              "name": "GLENFIDDICH 18",
-              "price": 180000,
-              "description": "Single Malt Scotch Whisky"
-            }
-          ]
-        },
-         {
-          "id": "Sparkling Wines",
-          "name": "Sparkling Wines",
-          "items": [
-            {
-              "name": "MATEUS BRUT ROSE",
-              "price": 20000,
-              "description": "California Red Wine"
-            },
-            {
-              "name": "ANDRE ROSE",
-              "price": 20000,
-              "description": "California White Wine"
-            },
-            {
-              "name": "ANDRE BRUT",
-              "price": 20000,
-              "description": "Sparkling wine"
-            },
-            {
-              "name": "HENKEL ROSE",
-              "price": 45000,
-              "description": "German sparkling rosé"
-            },
-            {
-              "name": "HENKEL VARIETY",
-              "price": 10000,
-              "description": "German sparkling wine selection"
-            },
-            {
-              "name": "PINK LADY PERRY",
-              "price": 8000,
-              "description": "Sweet pear cider"
-            },
-            {
-              "name": "CASTLE DEFERO",
-              "price": 20000,
-              "description": "Sparkling wine"
-            },
-            /*{
-              "name": "FOUR COUSINS SPARKLING RED",
-              "price": 20000,
-              "description": "South African sparkling red wine"
-            }*/
-          ]
-        }, 
-        {
-          "id": "Red Wines",
-          "name": "Red Wines",
-          "items": [
-            {
-              "name": "CARLO ROSSI RED (SWEET)",
-              "price": 25000,
-              "description": "California Red Wine"
-            },
-            {
-              "name": "CARLO ROSSI RED",
-              "price": 25000,
-              "description": "California White Wine"
-            },
-            {
-              "name": "ESCUDO ROJO",
-              "price": 23000,
-              "description": "Chilean red wine"
-            },
-            {
-              "name": "TOMA TOMA BODEGAS LOZANO",
-              "price": 10000,
-              "description": "Spanish red wine"
-            },
-            {
-              "name": "SAN SIMON CASTILO",
-              "price": 10000,
-              "description": "Spanish red wine"
-            },
-            {
-              "name": "B&G",
-              "price": 15000,
-              "description": "French red wine"
-            },
-            {
-              "name": "THOMAS BARTON",
-              "price": 30000,
-              "description": "French Bordeaux wine"
-            },
-            {
-              "name": "FOUR COUSINS RED",
-              "price": 20000,
-              "description": "South African red wine"
-            }
-          ]
-        },
-        {
-          "id": "Beer",
-          "name": "Beer",
-          "items": [
-            {
-              "name": "HEINEKEN BIG",
-              "price": 2500,
-              "description": "Lager Beer"
-            },
-            {
-              "name": "BUDWEISER",
-              "price": 2000,
-              "description": "American Lager"
-            },
-            {
-              "name": "STAR",
-              "price": 2500,
-              "description": "Nigerian Lager"
-            },
-            {
-              "name": "GULDER",
-              "price": 2500,
-              "description": "Nigerian Lager"
-            },
-            {
-              "name": "LIFE",
-              "price": 2000,
-              "description": "Nigerian Lager"
-            },
-            {
-              "name": "33 EXPORT",
-              "price": 2500,
-              "description": "Nigerian Lager"
-            },
-            {
-              "name": "HERO",
-              "price": 2000,
-              "description": "Nigerian Lager"
-            },
-            {
-              "name": "SMIRNOFF ICE",
-              "price": 1200,
-              "description": "Flavored Malt Beverage "
-            },
-            {
-              "name": "STAR RADLER",
-              "price": 2000,
-              "description": "Shandy "
-            },
-            {
-              "name": "HARP",
-              "price": 1500,
-              "description": "Herbal Alcoholic Drink"
-            },
-            {
-              "name": "ORIGIN BEER",
-              "price": 2000,
-              "description": "Herbal Alcoholic Drink"
-            },
-            {
-              "name": "DESPERADOS",
-              "price": 2000,
-              "description": "Tequila Flavored Beer "
-            },
-            {
-              "name": "TIGER BEER",
-              "price": 1700,
-              "description": "Lager Beer "
-            },
-            {
-              "name": "TROPHY BEER",
-              "price": 2000,
-              "description": "Nigerian Lager"
-            },
-            {
-              "name": "FLYING FISH",
-              "price": 1700,
-              "description": "Nigerian Lager"
-            }
-          ]
-        },
-        {
-          "id": "Stout",
-          "name": "Stout",
-          "items": [
-            {
-              "name": "GUINNESS FOREIGN EXTRA STOUT (BIG)",
-              "price": 3000,
-              "description": "600ml"
-            },
-            {
-              "name": "GUINNESS FOREIGN EXTRA STOUT (MEDIUM)",
-              "price": 2000,
-              "description": "33cl"
-            },
-            {
-              "name": "GUINNESS FOREIGN EXTRA STOUT (SMALL)",
-              "price": 2000,
-              "description": "18cl"
-            },
-            {
-              "name": "GUINNESS EXTRA SMOOTH",
-              "price": 2000,
-              "description": "33cl smooth stout"
-            },
-            {
-              "name": "LEGEND STOUT (BIG)",
-              "price": 2500,
-              "description": "600ml"
-            },
-            {
-              "name": "LEGEND STOUT (MEDIUM)",
-              "price": 2000,
-              "description": "33cl"
-            },
-            {
-              "name": "LEGEND STOUT (SMALL)",
-              "price": 2000,
-              "description": "18cl"
-            },
-            {
-              "name": "TROPHY STOUT",
-              "price": 2000,
-              "description": "33cl"
-            }
-          ]
-        },
-        {
-          "id": "Energy-Drink",
-          "name": "Energy Drinks",
-          "items": [
-            {
-              "name": "RED BULL",
-              "price": 2000,
-              "description": "Energy Drink "
-            },
-            {
-              "name": "POWER HORSE",
-              "price": 1500,
-              "description": "Energy Drink "
-            },
-            {
-              "name": "MONSTER",
-              "price": 1500,
-              "description": "Energy Drink"
-            },
-            {
-              "name": "REDBULL SUGAR",
-              "price": 2000,
-              "description": "Energy Drink"
-            }
-          ]
-        },
-        {
-          "id": "Soft-Drink",
-          "name": "Soft Drinks",
-          "items": [
-            {
-              "name": "COCA-COLA",
-              "price": 1000,
-              "description": "33cl"
-            },
-            {
-              "name": "FANTA",
-              "price": 1000,
-              "description": "33cl"
-            },
-            {
-              "name": "SPRITE",
-              "price": 1000,
-              "description": "33cl"
-            },
-            {
-              "name": "PEPSI",
-              "price": 1000,
-              "description": "33cl"
-            },
-            {
-              "name": "MIRINDA",
-              "price": 1000,
-              "description": "33cl"
-            },
-            {
-              "name": "MALT",
-              "price": 1500,
-              "description": "33cl"
-            },
-            {
-              "name": "HOLLANDIA",
-              "price": 3500,
-              "description": "Assorted flavors"
-            },
-            {
-              "name": "BOTTLED WATER",
-              "price": 500,
-              "description": "50cl"
-            }
-          ]
-        }
-      ]
-    },*/
-    {
-      "id": "Desserts",
-      "name": "Desserts & Fruit",
-      "description": "Sweet endings and fresh selections",
-      "subMenus": [
-        {
-          "id": "Small Chops",
-          "name": "Small Chops",
-          "items": [
-            {
-              "name": "MEAT PIE",
-              "price": 1000,
-              "description": "Flaky pastry with meat filling"
-            },
-            {
-              "name": "CHICKEN PIE",
-              "price": 1500,
-              "description": "Flaky pastry with chicken filling"
-            },
-            {
-              "name": "DOUGHNUT",
-              "price": 1000,
-              "description": "Sweet fried dough ring"
-            },
-            {
-              "name": "FISH PIE",
-              "price": 1000,
-              "description": "Flaky pastry with fish filling"
-            },
-            {
-              "name": "SAUSAGE ROLL",
-              "price": 1000,
-              "description": "Puff pastry with sausage filling"
-            },
-            {
-              "name": "BREAD ROLL",
-              "price": 1000,
-              "description": "Soft bread roll"
-            },
-            {
-              "name": "SPRING ROLL",
-              "price": 1000,
-              "description": "Crispy vegetable roll"
-            },
-            {
-              "name": "MOI-MOI",
-              "price": 2000,
-              "description": "Steamed bean pudding"
-            },
-            {
-              "name": "CUP CAKE",
-              "price": 1000,
-              "description": "Small sweet cake"
-            },
-            {
-              "name": "CHICKEN WING",
-              "price": 3000,
-              "description": "Fried or grilled chicken wings"
-            },
-            {
-              "name": "CHICKEN BURGER",
-              "price": 3500,
-              "description": "Chicken patty in bun"
-            },
-            {
-              "name": "BEEF BURGER",
-              "price": 3500,
-              "description": "Beef patty in bun"
-            }
-          ]
-        },
-        {
-          "id": "Sharwama Wrap",
-          "name": "Sharwama Wrap",
-          "items": [
-            {
-              "name": "BEEF WITH HOT DOG",
-              "price": 3000,
-              "description": "Beef sharwama with hot dog"
-            },
-            {
-              "name": "CHICKEN WITH HOT DOG",
-              "price": 4000,
-              "description": "Chicken sharwama with hot dog"
-            },
-            {
-              "name": "MIXED MEAT WITH HOT DOG",
-              "price": 4000,
-              "description": "Mixed meat sharwama with hot dog"
-            },
-            {
-              "name": "EXTRA HOT DOG",
-              "price": 2000,
-              "description": "Additional hot dog"
-            }
-          ]
-        },
-        {
-          "id": "Smoothies &  Fresh Juice",
-          "name": "Sharwama Wrap",
-          "items": [
-            {
-              "name": "PINEAPPLE JUICE",
-              "price": 2500,
-              "description": "Fresh pineapple juice"
-            },
-            {
-              "name": "FRUIT SLICES",
-              "price": 2500,
-              "description": "Assorted fresh fruit slices"
-            },
-            {
-              "name": "FRUIT SMOOTHIE",
-              "price": 2500,
-              "description": "Blended fresh fruit smoothie"
-            }
-          ]
-        }
-      ]
-    }
-  ]
 }
-
