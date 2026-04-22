@@ -153,5 +153,3 @@ function showItems(subMenuId) {
         </div>
     `;
 }
-
-
