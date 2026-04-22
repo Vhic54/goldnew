@@ -105,17 +105,7 @@
             {"name": "Fufu & Bitterleaf Soup", "price": 7000, "description": "Fermented cassava with traditional bitterleaf soup"}
           ]
         },
-        {
-          "id": "grill",
-          "name": "From the Grill",
-          "items": [
-            {"name": "Suya Platter", "price": 8500, "description": "Spiced grilled beef skewers with onions and peppers"},
-            {"name": "Grilled Tilapia", "price": 10000, "description": "Whole grilled fish with spicy marinade"},
-            {"name": "BBQ Chicken", "price": 9000, "description": "Half chicken with barbecue sauce and coleslaw"},
-            {"name": "Lamb Chops", "price": 15000, "description": "Grilled lamb with rosemary and garlic"},
-            {"name": "Mixed Grill", "price": 18000, "description": "Assorted grilled meats with vegetables"}
-          ]
-        }
+        
       ]
     },
     {
