@@ -1,4 +1,3 @@
-// Restaurant Menu App with Embedded Data
 let menuData ={
   "restaurant": "",
   "currency": "₦",
@@ -982,137 +981,138 @@ let menuData ={
         }
       ]
     },
-	{
-      "id": "Desserts",
-      "name": "Desserts & Fruit",
-      "description": "Sweet endings and fresh selections",
-      "subMenus": [
-        {
-          "id": "Small Chops",
-          "name": "Small Chops",
-          "items": [
-            {
-              "name": "MEAT PIE",
-              "price": 1500,
-              "description": "Flaky pastry with meat filling"
-            },  {
-              "name": "BEEF BURGER",
-              "price": 5500,
-              "description": "Flaky pastry with meat filling"
-            },
-			  {
-              "name": "CHICKEN BURGER",
-              "price": 6500,
-              "description": "Flaky pastry with meat filling"
-            },
-            {
-              "name": "CHICKEN PIE",
-              "price": 1800,
-              "description": "Flaky pastry with chicken filling"
-            },
-            {
-              "name": "DOUGHNUT",
-              "price": 1000,
-              "description": "Sweet fried dough ring"
-            },
-            {
-              "name": "FISH PIE",
-              "price": 1000,
-              "description": "Flaky pastry with fish filling"
-            },
-            {
-              "name": "SAUSAGE ROLL",
-              "price": 1000,
-              "description": "Puff pastry with sausage filling"
-            },
-            {
-              "name": "BREAD ROLL",
-              "price": 1000,
-              "description": "Soft bread roll"
-            },
-            {
-              "name": "SPRING ROLL",
-              "price": 1000,
-              "description": "Crispy vegetable roll"
-            },
-            {
-              "name": "MOI-MOI",
-              "price": 2000,
-              "description": "Steamed bean pudding"
-            },
-            {
-              "name": "CUP CAKE",
-              "price": 1000,
-              "description": "Small sweet cake"
-            },
-            {
-              "name": "CHICKEN WING",
-              "price": 3000,
-              "description": "Fried or grilled chicken wings"
-            },
-            {
-              "name": "CHICKEN BURGER",
-              "price": 3500,
-              "description": "Chicken patty in bun"
-            },
-            {
-              "name": "BEEF BURGER",
-              "price": 3500,
-              "description": "Beef patty in bun"
-            }
-          ]
-        },
-        {
-          "id": "Sharwama Wrap",
-          "name": "Sharwama Wrap",
-          "items": [
-            {
-              "name": "BEEF WITH HOT DOG",
-              "price": 5000,
-              "description": "Beef sharwama with hot dog"
-            },
-            {
-              "name": "CHICKEN WITH HOT DOG",
-              "price": 6000,
-              "description": "Chicken sharwama with hot dog"
-            },
-            {
-              "name": "MIXED MEAT WITH HOT DOG",
-              "price": 8000,
-              "description": "Mixed meat sharwama with hot dog"
-            },
-            {
-              "name": "EXTRA HOT DOG",
-              "price": 1000,
-              "description": "Additional hot dog"
-            }
-          ]
-        },
-        {
-          "id": "Smoothies &  Fresh Juice",
-          "name": "Fruit",
-          "items": [
-            {
-              "name": "PINEAPPLE JUICE",
-              "price": 5000,
-              "description": "Fresh pineapple juice"
-            },
-            {
-              "name": "FRUIT SLICES",
-              "price": 4000,
-              "description": "Assorted fresh fruit slices"
-            },
-            {
-              "name": "FRUIT SMOOTHIE",
-              "price": 4500,
-              "description": "Blended fresh fruit smoothie"
-            }
-          ]
-        }
-      ]
-    }
-]}
-  
+			{
+			  "id": "Desserts",
+			  "name": "Desserts & Fruit",
+			  "description": "Sweet endings and fresh selections",
+			  "subMenus": [
+				{
+				  "id": "Small Chops",
+				  "name": "Small Chops",
+				  "items": [
+					{
+					  "name": "MEAT PIE",
+					  "price": 1500,
+					  "description": "Flaky pastry with meat filling"
+					},  {
+					  "name": "BEEF BURGER",
+					  "price": 5500,
+					  "description": "Flaky pastry with meat filling"
+					},
+					  {
+					  "name": "CHICKEN BURGER",
+					  "price": 6500,
+					  "description": "Flaky pastry with meat filling"
+					},
+					{
+					  "name": "CHICKEN PIE",
+					  "price": 1800,
+					  "description": "Flaky pastry with chicken filling"
+					},
+					{
+					  "name": "DOUGHNUT",
+					  "price": 1000,
+					  "description": "Sweet fried dough ring"
+					},
+					{
+					  "name": "FISH PIE",
+					  "price": 1000,
+					  "description": "Flaky pastry with fish filling"
+					},
+					{
+					  "name": "SAUSAGE ROLL",
+					  "price": 1000,
+					  "description": "Puff pastry with sausage filling"
+					},
+					{
+					  "name": "BREAD ROLL",
+					  "price": 1000,
+					  "description": "Soft bread roll"
+					},
+					{
+					  "name": "SPRING ROLL",
+					  "price": 1000,
+					  "description": "Crispy vegetable roll"
+					},
+					{
+					  "name": "MOI-MOI",
+					  "price": 2000,
+					  "description": "Steamed bean pudding"
+					},
+					{
+					  "name": "CUP CAKE",
+					  "price": 1000,
+					  "description": "Small sweet cake"
+					},
+					{
+					  "name": "CHICKEN WING",
+					  "price": 3000,
+					  "description": "Fried or grilled chicken wings"
+					},
+					{
+					  "name": "CHICKEN BURGER",
+					  "price": 3500,
+					  "description": "Chicken patty in bun"
+					},
+					{
+					  "name": "BEEF BURGER",
+					  "price": 3500,
+					  "description": "Beef patty in bun"
+					}
+				  ]
+				},
+				{
+				  "id": "Sharwama Wrap",
+				  "name": "Sharwama Wrap",
+				  "items": [
+					{
+					  "name": "BEEF WITH HOT DOG",
+					  "price": 5000,
+					  "description": "Beef sharwama with hot dog"
+					},
+					{
+					  "name": "CHICKEN WITH HOT DOG",
+					  "price": 6000,
+					  "description": "Chicken sharwama with hot dog"
+					},
+					{
+					  "name": "MIXED MEAT WITH HOT DOG",
+					  "price": 8000,
+					  "description": "Mixed meat sharwama with hot dog"
+					},
+					{
+					  "name": "EXTRA HOT DOG",
+					  "price": 1000,
+					  "description": "Additional hot dog"
+					}
+				  ]
+				},
+				{
+				  "id": "Smoothies &  Fresh Juice",
+				  "name": "Fruit",
+				  "items": [
+					{
+					  "name": "PINEAPPLE JUICE",
+					  "price": 5000,
+					  "description": "Fresh pineapple juice"
+					},
+					{
+					  "name": "FRUIT SLICES",
+					  "price": 4000,
+					  "description": "Assorted fresh fruit slices"
+					},
+					{
+					  "name": "FRUIT SMOOTHIE",
+					  "price": 4500,
+					  "description": "Blended fresh fruit smoothie"
+					}
+				  ]
+				}
+			  ]
+			}
+	]
+	
+}
     let currentMenu = null;
 let currentSubMenu = null;
 let currency = menuData.currency || '₦';
