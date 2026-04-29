@@ -14,17 +14,22 @@ let menuData ={
           "items": [
             {
               "name": "OAT WITH MILK/SUGAR",
-              "price": 2000,
+              "price": 2500,
               "description": "Healthy oatmeal with milk and sugar"
             },
             {
               "name": "CORNFLAKES WITH MILK/SUGAR",
-              "price": 2000,
+              "price": 4000,
               "description": "Crispy cornflakes served with milk and sugar"
             },
             {
               "name": "CUSTARD WITH MILK/SUGAR",
               "price": 2000,
+              "description": "Creamy custard with milk and sugar"
+            },
+			 {
+              "name": "PAP WITH MILK/SUGAR",
+              "price": 2500,
               "description": "Creamy custard with milk and sugar"
             },
             {
@@ -73,18 +78,18 @@ let menuData ={
               "description": "Hot beverage of your choice"
             },
             {
-              "name": "BREAKFAST SAUSAGE (4PCS)",
+              "name": "BREAKFAST SAUSAGE (2PCS)",
               "price": 2000,
               "description": "Four pieces of breakfast sausage"
             },
             {
               "name": "YAM/PLANTAIN PORRIDGE (NO PROTEIN INSIDE)",
-              "price": 2000,
+              "price": 4000,
               "description": "Yam or plantain porridge"
             },
             {
               "name": "BOILED YAM OR PLANTAIN WITH STEW",
-              "price": 1500,
+              "price": 6000,
               "description": "Boiled tubers served with tomato stew"
             },
             {
@@ -94,32 +99,27 @@ let menuData ={
             },
             {
               "name": "CLUB SANDWICH",
-              "price": 4000,
+              "price": 5500,
               "description": "Triple-decker sandwich with chicken, egg, and veggies"
             },
             {
-              "name": "CHICKEN SANDWICH",
-              "price": 4500,
-              "description": "Grilled chicken sandwich"
-            },
-            {
               "name": "PANCAKE WITH SCRAMBLED EGG/SYRUP",
-              "price": 4500,
+              "price": 6500,
               "description": "Fluffy pancakes with eggs or syrup"
             },
             {
               "name": "WAFFLES WITH SCRAMBLED EGG/SYRUP",
-              "price": 4500,
+              "price": 6500,
               "description": "Crispy waffles with eggs or syrup"
             },
             {
               "name": "FRENCH TOAST WITH SCRAMBLED EGG/SYRUP",
-              "price": 4500,
+              "price": 6500,
               "description": "Egg-battered toast with eggs or syrup"
             },
             {
               "name": "EGG SAUCE",
-              "price": 2000,
+              "price": 3000,
               "description": "Scrambled eggs in tomato sauce"
             },
             {
@@ -155,42 +155,42 @@ let menuData ={
           "items": [
             {
               "name": "CHICKEN CONTINENTAL CUISINE",
-              "price": 9500,
+              "price": 14000,
               "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH CHICKEN"
             },
             {
               "name": "GOAT MEAT CONTINENTAL CUISINE",
-              "price": 9500,
+              "price": 14000,
               "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH GOAT MEAT"
             },
             {
               "name": "BEEF CONTINENTAL CUISINE",
-              "price": 8000,
+              "price": 14000,
               "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH BEEF"
             },
             {
               "name": "FISH CONTINENTAL CUISINE",
-              "price": 9000,
+              "price": 14000,
               "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH FISH"
             },
             {
               "name": "SNAIL CONTINENTAL CUISINE",
-              "price": 10000,
+              "price": 14000,
               "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH SNAIL"
             },
             {
               "name": "SHRIMP CONTINENTAL CUISINE",
-              "price": 7000,
+              "price": 14000,
               "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH SHRIMP"
             },
             {
               "name": "KING PRAWN CONTINENTAL CUISINE",
-              "price": 8000,
+              "price": 14000,
               "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH KING PRAWN"
             },
             {
               "name": "TURKEY CONTINENTAL CUISINE",
-              "price": 9000,
+              "price": 14000,
               "description": "JELLOF RICE, FRIED RICE, COCONUT RICE, NATIVE RICE OR WHITE RICE (CONTINENTAL) SERVED WITH TURKEY"
             }
           ]
@@ -201,47 +201,47 @@ let menuData ={
           "items": [
             {
               "name": "BEEF CHINESE RICE",
-              "price": 8500,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH BEEF"
             },
             {
               "name": "CHICKEN CHINESE RICE",
-              "price": 9000,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH CHICKEN"
             },
             {
               "name": "SHRIMPS CHINESE RICE",
-              "price": 8000,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH SHRIMPS"
             },
             {
               "name": "FISH CHINESE RICE",
-              "price": 8000,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH FISH"
             },
             {
               "name": "SNAIL CHINESE RICE",
-              "price": 9000,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH SNAIL"
             },
             {
               "name": "TURKEY CHINESE RICE",
-              "price": 9000,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH TURKEY"
             },
             {
               "name": "GOAT MEAT CHINESE RICE",
-              "price": 8500,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH GOAT MEAT"
             },
             {
               "name": "KING PRAWN CHINESE RICE",
-              "price": 8500,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH KING PRAWNS"
             },
             {
               "name": "HOUSE SPECIAL (2 PROTEIN COMBO)",
-              "price": 8500,
+              "price": 14000,
               "description": "CHINESE RICE SERVED WITH 2 PROTEINS OF CHOICE"
             }
           ]
@@ -287,7 +287,7 @@ let menuData ={
             },
             {
               "name": "OFE-OWERRI SOUP",
-              "price": 3000,
+              "price": 5000,
               "description": "Traditional Owerri-style soup"
             },
             {
@@ -303,7 +303,7 @@ let menuData ={
           "items": [
             {
               "name": "ISI EWU WITH UGBA",
-              "price": 12000,
+              "price": 15000,
               "description": "Spicy goat head with palm oil and utazi leaves"
             },
             {
@@ -334,38 +334,33 @@ let menuData ={
             },
             {
               "name": "GARRI (EBA)",
-              "price": 800,
+              "price": 1000,
               "description": "Cassava flakes made into dough"
             },
             {
               "name": "SEMOLINA",
-              "price": 1000,
+              "price": 1500,
               "description": "Semolina wheat dough"
             },
             {
               "name": "WHEAT",
-              "price": 1000,
+              "price": 1500,
               "description": "Whole wheat dough"
             },
             {
-              "name": "AMALA",
-              "price": 800,
+              "name": "POUNDO",
+              "price": 1500,
               "description": "Yam flour dough"
             },
             {
-              "name": "STARCH",
-              "price": 800,
-              "description": "Cassava starch dough"
-            },
-            {
-              "name": "FUFU",
-              "price": 800,
-              "description": "Fermented cassava dough"
-            },
-            {
-              "name": "SEMOVIDA",
+              "name": "OAT MEAL",
               "price": 1000,
-              "description": "Fine semolina dough"
+              "description": "Oat Swallow"
+            },
+			{
+              "name": "PLANTAIN FLOUR",
+              "price": 1500,
+              "description": "Oat Swallow"
             }
           ]
         },
@@ -380,7 +375,7 @@ let menuData ={
             },
             {
               "name": "VEGETABLE SAUCE",
-              "price": 2000,
+              "price": 4000,
               "description": "Mixed vegetable sauce"
             },
             {
@@ -426,7 +421,7 @@ let menuData ={
             },
             {
               "name": "BEEF PEPPER SOUP",
-              "price": 5000,
+              "price": 5500,
               "description": "Spicy pepper soup with beef"
             },
             {
@@ -456,12 +451,12 @@ let menuData ={
             },
             {
               "name": "SNAIL PEPPER SOUP",
-              "price": 6000,
+              "price": 7000,
               "description": "Spicy pepper soup with snails"
             },
             {
               "name": "TURKEY PEPPER SOUP",
-              "price": 7000,
+              "price": 8000,
               "description": "Spicy pepper soup with turkey"
             }
           ]
@@ -523,7 +518,7 @@ let menuData ={
             },
             {
               "name": "CHICKEN FRIED NOODLES",
-              "price": 7000,
+              "price": 8000,
               "description": "Stir-fried noodles with chicken"
             },
             {
@@ -533,7 +528,7 @@ let menuData ={
             },
             {
               "name": "SHRIMP FRIED NOODLES",
-              "price": 7000,
+              "price": 9500,
               "description": "Stir-fried noodles with shrimp"
             }
           ]
@@ -569,7 +564,7 @@ let menuData ={
             },
             {
               "name": "WHITE RICE AND STEW",
-              "price": 2000,
+              "price": 4000,
               "description": "Plain rice with tomato stew"
             }
           ]
@@ -610,7 +605,7 @@ let menuData ={
             },
             {
               "name": "TURKEY",
-              "price": 6000,
+              "price": 8000,
               "description": "Roasted or grilled turkey"
             }
           ]
@@ -887,28 +882,43 @@ let menuData ={
             }
           ]
         },
+		{
+          "id": "Bitters",
+          "name": "Bitters",
+          "items": [
+            {
+              "name": "ORIGIN",
+              "price": 2500,
+              "description": ""
+            },
+			{
+              "name": "ODOGWU",
+              "price": 2500,
+              "description": ""
+          ]
+        },
         {
           "id": "Energy-Drink",
           "name": "Energy Drinks",
           "items": [
             {
               "name": "RED BULL",
-              "price": 2000,
+              "price": 3500,
               "description": "Energy Drink "
             },
             {
               "name": "POWER HORSE",
-              "price": 1500,
+              "price": 3500,
               "description": "Energy Drink "
             },
             {
               "name": "MONSTER",
-              "price": 1500,
+              "price": 4000,
               "description": "Energy Drink"
             },
-            {
-              "name": "REDBULL SUGAR",
-              "price": 2000,
+			 {
+              "name": "BLACK BULLET",
+              "price": 3000,
               "description": "Energy Drink"
             }
           ]
@@ -920,41 +930,51 @@ let menuData ={
             {
               "name": "COCA-COLA",
               "price": 1000,
-              "description": "33cl"
+              "description": ""
             },
             {
               "name": "FANTA",
               "price": 1000,
-              "description": "33cl"
+              "description": ""
             },
             {
               "name": "SPRITE",
               "price": 1000,
-              "description": "33cl"
+              "description": ""
             },
             {
               "name": "PEPSI",
               "price": 1000,
-              "description": "33cl"
+              "description": ""
             },
             {
               "name": "MIRINDA",
               "price": 1000,
-              "description": "33cl"
+              "description": ""
             },
             {
               "name": "MALT",
               "price": 1500,
-              "description": "33cl"
+              "description": ""
             },
             {
-              "name": "HOLLANDIA",
+              "name": "PEAK YOGHURT",
+              "price": 4000,
+              "description": ""
+            },
+			{
+              "name": "CHI EXOTIC",
               "price": 3500,
-              "description": "Assorted flavors"
+              "description": ""
+            },
+			{
+              "name": "CHIVITA",
+              "price": 3500,
+              "description": ""
             },
             {
               "name": "BOTTLED WATER",
-              "price": 500,
+              "price": 600,
               "description": "50cl"
             }
           ]
@@ -972,12 +992,21 @@ let menuData ={
           "items": [
             {
               "name": "MEAT PIE",
-              "price": 1000,
+              "price": 1500,
+              "description": "Flaky pastry with meat filling"
+            },  {
+              "name": "BEEF BURGER",
+              "price": 5500,
+              "description": "Flaky pastry with meat filling"
+            },
+			  {
+              "name": "CHICKEN BURGER",
+              "price": 6500,
               "description": "Flaky pastry with meat filling"
             },
             {
               "name": "CHICKEN PIE",
-              "price": 1500,
+              "price": 1800,
               "description": "Flaky pastry with chicken filling"
             },
             {
@@ -1038,43 +1067,43 @@ let menuData ={
           "items": [
             {
               "name": "BEEF WITH HOT DOG",
-              "price": 3000,
+              "price": 5000,
               "description": "Beef sharwama with hot dog"
             },
             {
               "name": "CHICKEN WITH HOT DOG",
-              "price": 4000,
+              "price": 6000,
               "description": "Chicken sharwama with hot dog"
             },
             {
               "name": "MIXED MEAT WITH HOT DOG",
-              "price": 4000,
+              "price": 8000,
               "description": "Mixed meat sharwama with hot dog"
             },
             {
               "name": "EXTRA HOT DOG",
-              "price": 2000,
+              "price": 1000,
               "description": "Additional hot dog"
             }
           ]
         },
         {
           "id": "Smoothies &  Fresh Juice",
-          "name": "Sharwama Wrap",
+          "name": "Fruit",
           "items": [
             {
               "name": "PINEAPPLE JUICE",
-              "price": 2500,
+              "price": 5000,
               "description": "Fresh pineapple juice"
             },
             {
               "name": "FRUIT SLICES",
-              "price": 2500,
+              "price": 4000,
               "description": "Assorted fresh fruit slices"
             },
             {
               "name": "FRUIT SMOOTHIE",
-              "price": 2500,
+              "price": 4500,
               "description": "Blended fresh fruit smoothie"
             }
           ]
