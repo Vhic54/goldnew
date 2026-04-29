@@ -895,6 +895,7 @@ let menuData ={
               "name": "ODOGWU",
               "price": 2500,
               "description": ""
+			}
           ]
         },
         {
@@ -981,7 +982,7 @@ let menuData ={
         }
       ]
     },
-    {
+	{
       "id": "Desserts",
       "name": "Desserts & Fruit",
       "description": "Sweet endings and fresh selections",
@@ -1110,8 +1111,8 @@ let menuData ={
         }
       ]
     }
-  ]
-}
+]}
+  
     let currentMenu = null;
 let currentSubMenu = null;
 let currency = menuData.currency || '₦';
