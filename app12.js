@@ -43,7 +43,7 @@ let menuData ={
             },
             {
               "name": "PLAIN NOODLES WITH TWO BOILED EGGS",
-              "price": 3500,
+              "price": 4000,
               "description": "Instant noodles with two boiled eggs"
             },
             {
@@ -53,7 +53,7 @@ let menuData ={
             },
             {
               "name": "VEGETABLE NOODLES WITH FRIED EGGS",
-              "price": 3500,
+              "price": 5000,
               "description": "Vegetable noodles topped with fried eggs"
             },
             {
@@ -328,37 +328,37 @@ let menuData ={
           "items": [
             {
               "name": "POUNDED YAM",
-              "price": 1000,
+              "price": 2000,
               "description": "Smooth pounded yam"
             },
             {
               "name": "GARRI (EBA)",
-              "price": 1000,
+              "price": 1500,
               "description": "Cassava flakes made into dough"
             },
             {
               "name": "SEMOLINA",
-              "price": 1500,
+              "price": 2000,
               "description": "Semolina wheat dough"
             },
             {
               "name": "WHEAT",
-              "price": 1500,
+              "price": 2000,
               "description": "Whole wheat dough"
             },
             {
               "name": "POUNDO",
-              "price": 1500,
+              "price": 2000,
               "description": "Yam flour dough"
             },
             {
               "name": "OAT MEAL",
-              "price": 1000,
+              "price": 2000,
               "description": "Oat Swallow"
             },
 			{
               "name": "PLANTAIN FLOUR",
-              "price": 1500,
+              "price": 2000,
               "description": "Oat Swallow"
             }
           ]
@@ -425,7 +425,7 @@ let menuData ={
             },
             {
               "name": "GOAT MEAT PEPPER SOUP",
-              "price": 6000,
+              "price": 7000,
               "description": "Spicy pepper soup with goat meat"
             },
             {
@@ -574,12 +574,12 @@ let menuData ={
           "items": [
             {
               "name": "PEPPERED CHICKEN",
-              "price": 6000,
+              "price": 7000,
               "description": "Spicy peppered chicken"
             },
             {
               "name": "PEPPERED GOAT MEAT",
-              "price": 6000,
+              "price": 7000,
               "description": "Spicy peppered goat meat"
             },
             {
