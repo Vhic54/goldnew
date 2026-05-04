@@ -92,13 +92,13 @@ let menuData ={
               "description": "Boiled tubers served with tomato stew"
             },
             {
-              "name": "TOMATO SAUCE TIN MILK",
-              "price": 1500,
+              "name": "TOMATO SAUCE ",
+              "price": 2000,
               "description": "Tomato sauce with milk"
             },
             {
               "name": "CLUB SANDWICH",
-              "price": 5500,
+              "price": 8000,
               "description": "Triple-decker sandwich with chicken, egg, and veggies"
             },
             {
