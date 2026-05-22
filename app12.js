@@ -744,7 +744,7 @@ let menuData ={
             },
             {
               "name": "THOMAS BARTON",
-              "price": 30000,
+              "price": 40000,
               "description": "French Bordeaux wine"
             },
             {
@@ -795,18 +795,18 @@ let menuData ={
             },
             {
               "name": "SMIRNOFF ICE",
-              "price": 1200,
-              "description": "Flavored Malt Beverage "
+              "price": 1500,
+              "description": " "
             },
             {
               "name": "STAR RADLER",
               "price": 2000,
-              "description": "Shandy "
+              "description": " "
             },
             {
               "name": "HARP",
               "price": 1500,
-              "description": "Herbal Alcoholic Drink"
+              "description": "k"
             },
             {
               "name": "ORIGIN BEER",
@@ -831,7 +831,7 @@ let menuData ={
             {
               "name": "FLYING FISH",
               "price": 1700,
-              "description": "Nigerian Lager"
+              "description": " "
             }
           ]
         },
@@ -846,7 +846,7 @@ let menuData ={
             },
             {
               "name": "GUINNESS FOREIGN EXTRA STOUT (MEDIUM)",
-              "price": 2000,
+              "price": 2500,
               "description": "33cl"
             },
             {
@@ -856,7 +856,7 @@ let menuData ={
             },
             {
               "name": "GUINNESS EXTRA SMOOTH",
-              "price": 2000,
+              "price": 3000,
               "description": "33cl smooth stout"
             },
             {
@@ -871,7 +871,7 @@ let menuData ={
             },
             {
               "name": "LEGEND STOUT (SMALL)",
-              "price": 2000,
+              "price": 1800,
               "description": "18cl"
             },
             {
@@ -908,7 +908,7 @@ let menuData ={
             },
             {
               "name": "POWER HORSE",
-              "price": 3500,
+              "price": 4500,
               "description": "Energy Drink "
             },
             {
@@ -953,7 +953,7 @@ let menuData ={
               "description": ""
             },{
               "name": "FAYROUZ",
-              "price": 1200,
+              "price": 1500,
               "description": ""
             },
             {
