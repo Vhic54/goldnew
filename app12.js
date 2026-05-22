@@ -951,6 +951,10 @@ let menuData ={
               "name": "MIRINDA",
               "price": 1000,
               "description": ""
+            },{
+              "name": "FAYROUZ",
+              "price": 1200,
+              "description": ""
             },
             {
               "name": "MALT",
